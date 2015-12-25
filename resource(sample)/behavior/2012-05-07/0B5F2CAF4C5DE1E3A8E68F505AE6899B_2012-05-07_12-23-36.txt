@@ -1,0 +1,537 @@
+Last<=>11500
+L_Start<=>2012-05-07 12-23-36
+T<=>55[=]P<=>360tray.exe[=]I<=>528[=]W<=>102da[=]V<=>7, 7, 0, 1057[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>61[=]P<=>explorer.exe[=]I<=>156[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>79[=]P<=>91问问桌面工具.exe[=]I<=>684[=]W<=>103a8[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>82[=]P<=>QQ.exe[=]I<=>2380[=]W<=>302ae[=]V<=>1.80.4145.0[=]N<=>NULL[=]C<=>Tencent
+T<=>84[=]P<=>QQ.exe[=]I<=>948[=]W<=>302b8[=]V<=>1.80.4145.0
+T<=>125[=]P<=>QQ.exe[=]I<=>2380[=]W<=>302ae[=]V<=>1.80.4145.0
+T<=>129[=]P<=>QQ.exe[=]I<=>2584[=]W<=>2038e[=]V<=>1.80.4145.0
+T<=>133[=]P<=>QQ.exe[=]I<=>2380[=]W<=>104b0[=]V<=>1.80.4145.0
+T<=>135[=]P<=>91问问桌面工具.exe[=]I<=>684[=]W<=>103a8[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>141[=]P<=>explorer.exe[=]I<=>156[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>143[=]P<=>QQ.exe[=]I<=>2584[=]W<=>4036c[=]V<=>1.80.4145.0
+T<=>149[=]P<=>explorer.exe[=]I<=>156[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>151[=]P<=>QQ.exe[=]I<=>2584[=]W<=>4036c[=]V<=>1.80.4145.0
+T<=>153[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>155[=]P<=>popup_QQ.exe[=]I<=>948[=]W<=>30444[=]V<=>1.80.4145.0
+T<=>169[=]P<=>popup_QQ.exe[=]I<=>948[=]W<=>30444[=]V<=>1.80.4145.0
+T<=>181[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>183[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>185[=]P<=>360Safe.exe[=]I<=>2368[=]W<=>904f4[=]V<=>7, 6, 0, 1035
+T<=>213[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>217[=]P<=>zhtool.exe[=]I<=>3080[=]W<=>40592[=]V<=>1, 0, 0, 1[=]N<=>NetworkSpeedLCD 应用程序[=]C<=>NULL
+T<=>221[=]P<=>explorer.exe[=]I<=>156[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>223[=]P<=>speedtest.exe[=]I<=>1636[=]W<=>205b0[=]V<=>1.0.0.1[=]N<=>中国电信广东分公司测速客户端[=]C<=>中国电信广东分公司
+T<=>251[=]P<=>explorer.exe[=]I<=>156[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>255[=]P<=>QQ.exe[=]I<=>948[=]W<=>20458[=]V<=>1.80.4145.0
+T<=>309[=]P<=>360Safe.exe[=]I<=>2368[=]W<=>904f4[=]V<=>7, 6, 0, 1035
+T<=>315[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>319[=]P<=>360Safe.exe[=]I<=>2368[=]W<=>904f4[=]V<=>7, 6, 0, 1035
+T<=>323[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>329[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>30524[=]V<=>1, 0, 0, 1[=]N<=>TDX 应用程序[=]C<=>(通达信)深圳市财富趋势科技有限责任公司
+T<=>407[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>10882[=]V<=>5, 16, 75, 484[=]N<=>网上交易主程序[=]C<=>杭州核新软件技术有限公司
+T<=>467[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>523[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>529[=]P<=>360se.exe[=]I<=>1728[=]W<=>305be[=]V<=>4, 1, 6, 6
+T<=>643[=]P<=>360se.exe[=]I<=>2760[=]W<=>2094c[=]V<=>4, 1, 6, 6
+T<=>1261[=]P<=>360se.exe[=]I<=>1728[=]W<=>305be[=]V<=>4, 1, 6, 6
+T<=>1281[=]P<=>360se.exe[=]I<=>2760[=]W<=>2065c[=]V<=>4, 1, 6, 6
+T<=>1785[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>1787[=]P<=>QQ.exe[=]I<=>948[=]W<=>40982[=]V<=>1.80.4145.0
+T<=>1789[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>1793[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>3026e[=]V<=>1, 0, 0, 1
+T<=>1819[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>20696[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>1821[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>5a2021c[=]V<=>1, 0, 0, 1
+T<=>1823[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>305b2[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>1828[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://127.0.0.1:1741/auth/EA5262A04A7A48C0B11D7B8981113E58[=]A<=>305b2[=]B<=>30952[=]V<=>8.00.6001.18702
+T<=>1832[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>305b2[=]B<=>30952[=]V<=>8.00.6001.18702
+T<=>1838[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://try.taobao.com/item.htm[=]A<=>20696[=]B<=>705fe[=]V<=>8.00.6001.18702
+T<=>1846[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>1868[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://try.taobao.com/item.htm[=]A<=>20696[=]B<=>705fe[=]V<=>8.00.6001.18702
+T<=>1878[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>1880[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>305b2[=]B<=>30952[=]V<=>8.00.6001.18702
+T<=>1898[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>5a2021c[=]V<=>1, 0, 0, 1
+T<=>1904[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>405a2[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>1906[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>409a4[=]V<=>1, 0, 0, 1
+T<=>1908[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://127.0.0.1:1741/auth/47475A454B454E988FC857B2816BD5C6[=]A<=>405a2[=]B<=>5096e[=]V<=>8.00.6001.18702
+T<=>1910[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://try.taobao.com/item.htm[=]A<=>405a2[=]B<=>5096e[=]V<=>8.00.6001.18702
+T<=>1916[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://detail.tmall.com/item.htm[=]A<=>10a02[=]B<=>10a36[=]V<=>8.00.6001.18702
+T<=>1942[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>305b2[=]B<=>30952[=]V<=>8.00.6001.18702
+T<=>1946[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>40690[=]B<=>405da[=]V<=>8.00.6001.18702
+T<=>1950[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>40690[=]B<=>405da[=]V<=>8.00.6001.18702
+T<=>1968[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>209ec[=]B<=>20a00[=]V<=>8.00.6001.18702
+T<=>2032[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>10aa6[=]B<=>10adc[=]V<=>8.00.6001.18702
+T<=>2036[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://shuo.taobao.com/microshop/shop_follow_microshop.htm[=]A<=>10aa6[=]B<=>10adc[=]V<=>8.00.6001.18702
+T<=>2038[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://login.taobao.com/member/login.jhtml[=]A<=>10aa6[=]B<=>10adc[=]V<=>8.00.6001.18702
+T<=>2040[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>209ec[=]B<=>20a00[=]V<=>8.00.6001.18702
+T<=>2042[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>40b20[=]B<=>20ac4[=]V<=>8.00.6001.18702
+T<=>2046[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://login.taobao.com/member/login.jhtml[=]A<=>40b20[=]B<=>20ac4[=]V<=>8.00.6001.18702
+T<=>2050[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>209ec[=]B<=>20a00[=]V<=>8.00.6001.18702
+T<=>2056[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>40690[=]B<=>405da[=]V<=>8.00.6001.18702
+T<=>2058[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>305b2[=]B<=>30952[=]V<=>8.00.6001.18702
+T<=>2070[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>30ace[=]B<=>30ad4[=]V<=>8.00.6001.18702
+T<=>2074[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://shuo.taobao.com/microshop/shop_follow_microshop.htm[=]A<=>30ace[=]B<=>30ad4[=]V<=>8.00.6001.18702
+T<=>2076[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://login.taobao.com/member/login.jhtml[=]A<=>30ace[=]B<=>30ad4[=]V<=>8.00.6001.18702
+T<=>2078[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>209ec[=]B<=>20a00[=]V<=>8.00.6001.18702
+T<=>2082[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>3026e[=]V<=>1, 0, 0, 1
+T<=>2086[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>305b2[=]B<=>30952[=]V<=>8.00.6001.18702
+T<=>2088[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>40690[=]B<=>405da[=]V<=>8.00.6001.18702
+T<=>2090[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>30a14[=]B<=>40a66[=]V<=>8.00.6001.18702
+T<=>2094[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>30a14[=]B<=>40a66[=]V<=>8.00.6001.18702
+T<=>2108[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://login.taobao.com/member/login.jhtml[=]A<=>40aa4[=]B<=>40b24[=]V<=>8.00.6001.18702
+T<=>2116[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>30a14[=]B<=>40a66[=]V<=>8.00.6001.18702
+T<=>2152[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://youxuan.taobao.com/view_page-132947355.htm[=]A<=>11095c[=]B<=>50adc[=]V<=>8.00.6001.18702
+T<=>2188[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>30a14[=]B<=>40a66[=]V<=>8.00.6001.18702
+T<=>2190[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>40690[=]B<=>405da[=]V<=>8.00.6001.18702
+T<=>2196[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>NULL[=]A<=>60600[=]B<=>50682[=]V<=>8.00.6001.18702
+T<=>2200[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>60600[=]B<=>50682[=]V<=>8.00.6001.18702
+T<=>2202[=]P<=>iexplore.exe[=]I<=>5840[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>305b2[=]B<=>30952[=]V<=>8.00.6001.18702
+T<=>2206[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>2208[=]P<=>explorer.exe[=]I<=>156[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>2210[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>5a8021c[=]V<=>1, 0, 0, 1
+T<=>2214[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>NULL[=]A<=>3063c[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>2218[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>3063c[=]B<=>305d2[=]V<=>8.00.6001.18702
+T<=>2222[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>NULL[=]A<=>7094a[=]B<=>509aa[=]V<=>8.00.6001.18702
+T<=>2226[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>7094a[=]B<=>509aa[=]V<=>8.00.6001.18702
+T<=>2266[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>7094a[=]B<=>509aa[=]V<=>8.00.6001.18702
+T<=>2284[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>40a18[=]B<=>50a78[=]V<=>8.00.6001.18702
+T<=>2334[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>7094a[=]B<=>509aa[=]V<=>8.00.6001.18702
+T<=>2340[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://t-jh.cn/4M0IImy[=]A<=>50a06[=]B<=>60a62[=]V<=>8.00.6001.18702
+T<=>2342[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>50a06[=]B<=>60a62[=]V<=>8.00.6001.18702
+T<=>2394[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://dongtai.taobao.com/square.htm[=]A<=>7094a[=]B<=>509aa[=]V<=>8.00.6001.18702
+T<=>2396[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>60a52[=]B<=>80a22[=]V<=>8.00.6001.18702
+T<=>2408[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>NULL[=]A<=>20b3c[=]B<=>70afe[=]V<=>8.00.6001.18702
+T<=>2412[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://shuo.taobao.com/microshop/shop_follow_microshop.htm[=]A<=>20b3c[=]B<=>70afe[=]V<=>8.00.6001.18702
+T<=>2420[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>60a52[=]B<=>80a22[=]V<=>8.00.6001.18702
+T<=>2436[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>NULL[=]A<=>90ada[=]B<=>30b3a[=]V<=>8.00.6001.18702
+T<=>2440[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://item.taobao.com/item.htm[=]A<=>90ada[=]B<=>30b3a[=]V<=>8.00.6001.18702
+T<=>2476[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://store.taobao.com/shop/view_shop.htm[=]A<=>60a52[=]B<=>80a22[=]V<=>8.00.6001.18702
+T<=>2506[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>NULL[=]A<=>40b2a[=]B<=>a0abc[=]V<=>8.00.6001.18702
+T<=>2510[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://youxuan.taobao.com/search.htm[=]A<=>40b2a[=]B<=>a0abc[=]V<=>8.00.6001.18702
+T<=>2514[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>5a8021c[=]V<=>1, 0, 0, 1
+T<=>2516[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>3063c[=]B<=>305d2[=]V<=>8.00.6001.18702
+T<=>2518[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://taojinbi.taobao.com/record/my_coin_detail.htm[=]A<=>3063c[=]B<=>305d2[=]V<=>8.00.6001.18702
+T<=>2522[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>NULL[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2526[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://mission.jianghu.taobao.com/umission_list.htm[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2534[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://browser.taobao.com/[=]A<=>70b14[=]B<=>10b88[=]V<=>8.00.6001.18702
+T<=>2536[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://mission.jianghu.taobao.com/umission_list.htm[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2538[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://youxuan.taobao.com/search.htm[=]A<=>40b2a[=]B<=>a0abc[=]V<=>8.00.6001.18702
+T<=>2668[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://youxuan.taobao.com/search.htm[=]A<=>40b2a[=]B<=>a0abc[=]V<=>8.00.6001.18702
+T<=>2676[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://mission.jianghu.taobao.com/umission_list.htm[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2678[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://mission.jianghu.taobao.com/umission_list.htm[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2686[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>NULL[=]A<=>c0a54[=]B<=>b09c6[=]V<=>8.00.6001.18702
+T<=>2690[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://browser.taobao.com/[=]A<=>70b14[=]B<=>10b88[=]V<=>8.00.6001.18702
+T<=>2692[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://taojinbi.taobao.com/record/my_coin_detail.htm[=]A<=>3063c[=]B<=>305d2[=]V<=>8.00.6001.18702
+T<=>2696[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://www.taobao.com/go/act/other/citygirl.php[=]A<=>c0a54[=]B<=>b09c6[=]V<=>8.00.6001.18702
+T<=>2698[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://taojinbi.taobao.com/record/my_coin_detail.htm[=]A<=>3063c[=]B<=>305d2[=]V<=>8.00.6001.18702
+T<=>2700[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://mission.jianghu.taobao.com/umission_list.htm[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2704[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>2728[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://mission.jianghu.taobao.com/umission_list.htm[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2730[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://mission.jianghu.taobao.com/umission_list.htm[=]A<=>909cc[=]B<=>50960[=]V<=>8.00.6001.18702
+T<=>2734[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>2736[=]P<=>iexplore.exe[=]I<=>1184[=]U<=>http://taojinbi.taobao.com/record/my_coin_detail.htm[=]A<=>3063c[=]B<=>305d2[=]V<=>8.00.6001.18702
+T<=>2740[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>2742[=]P<=>AliIM.exe[=]I<=>1180[=]W<=>3026e[=]V<=>1, 0, 0, 1
+T<=>2746[=]P<=>360Safe.exe[=]I<=>5296[=]W<=>f0370[=]V<=>7, 6, 0, 1035
+T<=>2752[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>2754[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>2758[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>2774[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>2776[=]P<=>360Safe.exe[=]I<=>5296[=]W<=>f0370[=]V<=>7, 6, 0, 1035
+T<=>2780[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>2786[=]P<=>klive.exe[=]I<=>1080[=]W<=>805f0[=]V<=>1,21,0,1372[=]N<=>快盘[=]C<=>Kingsoft Corp. Ltd.
+T<=>2788[=]P<=>explorer.exe[=]I<=>156[=]W<=>180500[=]V<=>6.00.2900.5512
+T<=>2878[=]P<=>et.exe[=]I<=>4600[=]W<=>50626[=]V<=>8,1,0,2998[=]N<=>Kingsoft Office[=]C<=>Kingsoft Corp. Ltd.
+T<=>2902[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>2914[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>2924[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>2926[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>2930[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>2981[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3063[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3165[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>3171[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3185[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3201[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3205[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3237[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3239[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>3247[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://123.ie.sogou.com[=]A<=>1309a4[=]B<=>c0a74[=]V<=>3.2.0.4262
+T<=>3249[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://123.ie.sogou.com/[=]A<=>1309a4[=]B<=>c0a74[=]V<=>3.2.0.4262
+T<=>3253[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://my.tianya.cn/29323289#app=getMyBbx&from=mail[=]A<=>1309a4[=]B<=>16095c[=]V<=>3.2.0.4262
+T<=>3255[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://123.ie.sogou.com/[=]A<=>1309a4[=]B<=>c0a74[=]V<=>3.2.0.4262
+T<=>3257[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.searchina.net.cn/main/login.aspx[=]A<=>1309a4[=]B<=>20bbc[=]V<=>3.2.0.4262
+T<=>3259[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://www.xifuquan.com/Member/MyPoints.aspx[=]A<=>1309a4[=]B<=>20bba[=]V<=>3.2.0.4262
+T<=>3264[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>3270[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3322[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>3324[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3332[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3382[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>3390[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3496[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>3510[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3522[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>3524[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3558[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>3638[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>3648[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3680[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>3708[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>3710[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>3712[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://www.xifuquan.com/Member/Login.aspx[=]A<=>1309a4[=]B<=>20bba[=]V<=>3.2.0.4262
+T<=>3714[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.searchina.net.cn/main/login.aspx[=]A<=>1309a4[=]B<=>20bbc[=]V<=>3.2.0.4262
+T<=>3716[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://www.xifuquan.com/topics/2011/qiandao.aspx[=]A<=>1309a4[=]B<=>20b9a[=]V<=>3.2.0.4262
+T<=>3718[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://mail.163.com/errorpage/err_163.htm[=]A<=>1309a4[=]B<=>20bb6[=]V<=>3.2.0.4262
+T<=>3722[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.91wenwen.net/vote/#active[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>3726[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.bsh100.com/everyday.html[=]A<=>1309a4[=]B<=>80af8[=]V<=>3.2.0.4262
+T<=>3728[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://www.qtick.com/IndexPanelist.aspx[=]A<=>1309a4[=]B<=>20bc2[=]V<=>3.2.0.4262
+T<=>3730[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.bsh100.com/user.php[=]A<=>1309a4[=]B<=>80af8[=]V<=>3.2.0.4262
+T<=>3732[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://www.zdiao.com/login_check.asp[=]A<=>1309a4[=]B<=>50b6c[=]V<=>3.2.0.4262
+T<=>3734[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.bsh100.com/user.php[=]A<=>1309a4[=]B<=>80af8[=]V<=>3.2.0.4262
+T<=>3736[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://www.91wenwen.net/vote/show/1190[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>3752[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.91wenwen.net/vote/result/1190[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>3764[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://webmail.mail.163.com/js4/main.jsp[=]A<=>1309a4[=]B<=>20bb6[=]V<=>3.2.0.4262
+T<=>3766[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://webmail.mail.163.com/js4/main.jsp[=]A<=>1309a4[=]B<=>20bb6[=]V<=>3.2.0.4262
+T<=>3768[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://club.mail.163.com/jifen/mission/detail.do[=]A<=>1309a4[=]B<=>20ba4[=]V<=>3.2.0.4262
+T<=>3770[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://www.xifuquan.com/topics/2011/qiandao.aspx[=]A<=>1309a4[=]B<=>20b9a[=]V<=>3.2.0.4262
+T<=>3886[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://www.xifuquan.com/member/MyPoints.aspx[=]A<=>1309a4[=]B<=>20bba[=]V<=>3.2.0.4262
+T<=>3888[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://www.searchina.net.cn/member/[=]A<=>1309a4[=]B<=>20bbc[=]V<=>3.2.0.4262
+T<=>3890[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://club.mail.163.com/jifen/mission/detail.do[=]A<=>1309a4[=]B<=>20ba4[=]V<=>3.2.0.4262
+T<=>3942[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://webmail.mail.163.com/js4/main.jsp[=]A<=>1309a4[=]B<=>20bb6[=]V<=>3.2.0.4262
+T<=>3950[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://webmail.mail.163.com/js4/main.jsp[=]A<=>1309a4[=]B<=>20bb6[=]V<=>3.2.0.4262
+T<=>3968[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://webmail.mail.163.com/js4/main.jsp[=]A<=>1309a4[=]B<=>20bb6[=]V<=>3.2.0.4262
+T<=>3974[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.searchina.net.cn/member/[=]A<=>1309a4[=]B<=>20bbc[=]V<=>3.2.0.4262
+T<=>3978[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://feeling.searchina.net.cn/[=]A<=>1309a4[=]B<=>20bbc[=]V<=>3.2.0.4262
+T<=>3982[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.91wenwen.net/vote/result/1190[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>3984[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.bsh100.com/user.php[=]A<=>1309a4[=]B<=>80af8[=]V<=>3.2.0.4262
+T<=>3988[=]P<=>SogouExplorer.exe[=]I<=>412[=]U<=>http://www.zdiao.com/huiyuan/member.asp[=]A<=>1309a4[=]B<=>50b6c[=]V<=>3.2.0.4262
+T<=>3990[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.51poll.com/member/member_login.asp[=]A<=>1309a4[=]B<=>20b90[=]V<=>3.2.0.4262
+T<=>3992[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.1diaocha.com/User/Login.aspx[=]A<=>1309a4[=]B<=>20b8c[=]V<=>3.2.0.4262
+T<=>3996[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.bsh100.com/everyday.html[=]A<=>1309a4[=]B<=>80af8[=]V<=>3.2.0.4262
+T<=>4002[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.91wenwen.net/vote/#active[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>4006[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://feeling.searchina.net.cn/[=]A<=>1309a4[=]B<=>20bbc[=]V<=>3.2.0.4262
+T<=>4010[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.bsh100.com/everyday.html[=]A<=>1309a4[=]B<=>80af8[=]V<=>3.2.0.4262
+T<=>4012[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.91wenwen.net/vote/show/1191[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>4022[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.1diaocha.com/User/Default.aspx[=]A<=>1309a4[=]B<=>20b8c[=]V<=>3.2.0.4262
+T<=>4028[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.51poll.com/member/member_research.asp[=]A<=>1309a4[=]B<=>20b90[=]V<=>3.2.0.4262
+T<=>4030[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.idiaoyan.com/sns/login/[=]A<=>1309a4[=]B<=>30bc0[=]V<=>3.2.0.4262
+T<=>4032[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://cn.aipsurveys.com/login/index.php[=]A<=>1309a4[=]B<=>70ad2[=]V<=>3.2.0.4262
+T<=>4034[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://www.jisha.cn/index.php[=]A<=>1309a4[=]B<=>120b34[=]V<=>3.2.0.4262
+T<=>4036[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.diaochatong.com/user_questionnaire.html[=]A<=>1309a4[=]B<=>20bd6[=]V<=>3.2.0.4262
+T<=>4038[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.51poll.com/member/vote_detail.asp[=]A<=>1309a4[=]B<=>20b90[=]V<=>3.2.0.4262
+T<=>4086[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.51poll.com/includes/inc_success.asp[=]A<=>1309a4[=]B<=>20b90[=]V<=>3.2.0.4262
+T<=>4088[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.51poll.com/member/vote_report.asp[=]A<=>1309a4[=]B<=>20b90[=]V<=>3.2.0.4262
+T<=>4090[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.idiaoyan.com/sns_user/home/[=]A<=>1309a4[=]B<=>30bc0[=]V<=>3.2.0.4262
+T<=>4092[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.dajiashuo.com/UserLogin.aspx[=]A<=>1309a4[=]B<=>20b8e[=]V<=>3.2.0.4262
+T<=>4094[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.dajiashuo.com/IntegralCenter.aspx[=]A<=>1309a4[=]B<=>20b8e[=]V<=>3.2.0.4262
+T<=>4096[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.51poll.com/member/vote_report.asp[=]A<=>1309a4[=]B<=>20b90[=]V<=>3.2.0.4262
+T<=>4102[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.91wenwen.net/vote/result/1191[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>4122[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://cn.aipsurveys.com/login/index.php[=]A<=>1309a4[=]B<=>70ad2[=]V<=>3.2.0.4262
+T<=>4124[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.jisha.cn/index.php[=]A<=>1309a4[=]B<=>120b34[=]V<=>3.2.0.4262
+T<=>4126[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://h.cnnicresearch.cn/sv[=]A<=>1309a4[=]B<=>20bd4[=]V<=>3.2.0.4262
+T<=>4128[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.diaochatong.com/user_questionnaire.html[=]A<=>1309a4[=]B<=>20bd6[=]V<=>3.2.0.4262
+T<=>4130[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://h.cnnicresearch.cn/sv[=]A<=>1309a4[=]B<=>20bd4[=]V<=>3.2.0.4262
+T<=>4132[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>https://www.globaltestmarket.com/login.php[=]A<=>1309a4[=]B<=>30bc8[=]V<=>3.2.0.4262
+T<=>4134[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.esaying.cn/esaying/esaying/points/PointsSearchAction.do[=]A<=>1309a4[=]B<=>70ac0[=]V<=>3.2.0.4262
+T<=>4140[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>https://www.globaltestmarket.com/myprofile.php[=]A<=>1309a4[=]B<=>30bc8[=]V<=>3.2.0.4262
+T<=>4142[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.dajiashuo.com/IntegralCenter.aspx[=]A<=>1309a4[=]B<=>20b8e[=]V<=>3.2.0.4262
+T<=>4144[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.91wenwen.net/vote/result/1191[=]A<=>1309a4[=]B<=>20b86[=]V<=>3.2.0.4262
+T<=>4146[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://cn.aipsurveys.com/my/index.php[=]A<=>1309a4[=]B<=>70ad2[=]V<=>3.2.0.4262
+T<=>4150[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>1309a4[=]B<=>b0ac6[=]V<=>3.2.0.4262
+T<=>4152[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>https://www.globaltestmarket.com/myprofile.php[=]A<=>1309a4[=]B<=>30bc8[=]V<=>3.2.0.4262
+T<=>4154[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.esaying.cn/esaying/esaying/points/PointsSearchAction.do[=]A<=>1309a4[=]B<=>70ac0[=]V<=>3.2.0.4262
+T<=>4156[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>1309a4[=]B<=>b0ac6[=]V<=>3.2.0.4262
+T<=>4162[=]P<=>SogouExplorer.exe[=]I<=>4900[=]U<=>http://www.taidu8.com/earnmoney/earnmoney.htm[=]A<=>1309a4[=]B<=>1a05ea[=]V<=>3.2.0.4262
+T<=>4164[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>1309a4[=]B<=>b0ac6[=]V<=>3.2.0.4262
+T<=>4170[=]P<=>SogouExplorer.exe[=]I<=>6024[=]U<=>about:blank[=]A<=>1309a4[=]B<=>2705ac[=]V<=>3.2.0.4262
+T<=>4172[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4174[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>4180[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4216[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>4222[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4234[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>4474[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4488[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>4494[=]P<=>360Safe.exe[=]I<=>4396[=]W<=>5a05ac[=]V<=>7, 6, 0, 1035
+T<=>4521[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>4613[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4615[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>4625[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4627[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>4776[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>4780[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4816[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>4834[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4840[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>4894[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4926[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>4946[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>4960[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>4994[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>4996[=]P<=>explorer.exe[=]I<=>156[=]W<=>102ce[=]V<=>6.00.2900.5512
+T<=>6082[=]P<=>ssmypics.scr[=]I<=>5132[=]W<=>d0af6[=]V<=>5.1.2600.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>7282[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>8660[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>8672[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>8678[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>40524[=]V<=>1, 0, 0, 1
+T<=>8688[=]P<=>xiadan.exe[=]I<=>1680[=]W<=>80444[=]V<=>5, 16, 75, 484
+T<=>8724[=]P<=>TdxW.exe[=]I<=>5148[=]W<=>e0942[=]V<=>1, 0, 0, 1
+T<=>8726[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>8728[=]P<=>360Safe.exe[=]I<=>4396[=]W<=>5a05ac[=]V<=>7, 6, 0, 1035
+T<=>8730[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>8732[=]P<=>QQ.exe[=]I<=>2380[=]W<=>40470[=]V<=>1.80.4145.0
+T<=>8738[=]P<=>et.exe[=]I<=>4600[=]W<=>605b2[=]V<=>8,1,0,2998
+T<=>8750[=]P<=>explorer.exe[=]I<=>156[=]W<=>180500[=]V<=>6.00.2900.5512
+T<=>8764[=]P<=>QQ.exe[=]I<=>2584[=]W<=>302b6[=]V<=>1.80.4145.0
+T<=>8766[=]P<=>explorer.exe[=]I<=>156[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>64[=]P<=>explorer.exe[=]I<=>2044[=]W<=>10300[=]V<=>6.00.2900.5512
+T<=>80[=]P<=>TTPlayer.exe[=]I<=>3668[=]W<=>1047e[=]V<=>5, 7, 17, 0[=]N<=>千千静听[=]C<=>Alen Soft
+T<=>90[=]P<=>explorer.exe[=]I<=>2044[=]W<=>10300[=]V<=>6.00.2900.5512
+T<=>102[=]P<=>QQLogin.exe[=]I<=>1908[=]W<=>303d2[=]V<=>CFQQLogin
+T<=>110[=]P<=>iexplore.exe[=]I<=>4008[=]U<=>NULL[=]A<=>20312[=]B<=>104d4[=]V<=>8.00.6001.18702
+T<=>112[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>116[=]P<=>TTPlayer.exe[=]I<=>3668[=]W<=>10460[=]V<=>5, 7, 17, 0
+T<=>142[=]P<=>iexplore.exe[=]I<=>4008[=]U<=>http://cf.qq.com/act/a20120410xdjq/growup.shtml[=]A<=>20312[=]B<=>104d4[=]V<=>8.00.6001.18702
+T<=>184[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>190[=]P<=>TTPlayer.exe[=]I<=>3668[=]W<=>1047e[=]V<=>5, 7, 17, 0
+T<=>198[=]P<=>iexplore.exe[=]I<=>4008[=]U<=>http://cf.qq.com/act/a20120410xdjq/growup.shtml[=]A<=>20312[=]B<=>104d4[=]V<=>8.00.6001.18702
+T<=>268[=]P<=>QQLogin.exe[=]I<=>1908[=]W<=>303d2[=]V<=>CFQQLogin
+T<=>270[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3053c[=]V<=>6.00.2900.5512
+T<=>308[=]P<=>mspaint.exe[=]I<=>3816[=]W<=>3057c[=]V<=>5.1.2600.5918[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>320[=]P<=>QQLogin.exe[=]I<=>1908[=]W<=>303d2[=]V<=>CFQQLogin
+T<=>324[=]P<=>iexplore.exe[=]I<=>4008[=]U<=>http://cf.qq.com/act/a20120410xdjq/growup.shtml[=]A<=>20312[=]B<=>104d4[=]V<=>8.00.6001.18702
+T<=>344[=]P<=>explorer.exe[=]I<=>2044[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>348[=]P<=>TTPlayer.exe[=]I<=>3668[=]W<=>10460[=]V<=>5, 7, 17, 0
+T<=>358[=]P<=>QQLogin.exe[=]I<=>1908[=]W<=>303d2[=]V<=>CFQQLogin
+T<=>360[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>362[=]P<=>iexplore.exe[=]I<=>2424[=]U<=>NULL[=]A<=>6033e[=]B<=>2051a[=]V<=>8.00.6001.18702
+T<=>364[=]P<=>QQLogin.exe[=]I<=>1908[=]W<=>303d2[=]V<=>CFQQLogin
+T<=>368[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3053c[=]V<=>6.00.2900.5512
+T<=>374[=]P<=>QQLogin.exe[=]I<=>1908[=]W<=>303d2[=]V<=>CFQQLogin
+T<=>382[=]P<=>CFSelWorld.exe[=]I<=>3652[=]W<=>401ea[=]V<=>CFSelWord
+T<=>384[=]P<=>jisibar.exe[=]I<=>648[=]W<=>101de[=]V<=>0.7.0.0
+T<=>1779[=]P<=>explorer.exe[=]I<=>2044[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>1791[=]P<=>SogouExplorer.exe[=]I<=>2584[=]U<=>http://123.ie.sogou.com[=]A<=>4030e[=]B<=>203fe[=]V<=>3.2.0.4262
+T<=>1799[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://123.ie.sogou.com/[=]A<=>4030e[=]B<=>203fe[=]V<=>3.2.0.4262
+T<=>1986[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://www.sogou.com/sogou[=]A<=>4030e[=]B<=>4051a[=]V<=>3.2.0.4262
+T<=>2000[=]P<=>SogouExplorer.exe[=]I<=>1804[=]U<=>http://zhidao.baidu.com/question/83157592[=]A<=>4030e[=]B<=>c0534[=]V<=>3.2.0.4262
+T<=>2008[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://www.sogou.com/sogou[=]A<=>4030e[=]B<=>4051a[=]V<=>3.2.0.4262
+T<=>2010[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://mp3.sogou.com/music.so[=]A<=>4030e[=]B<=>4051a[=]V<=>3.2.0.4262
+T<=>2012[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://player.mbox.sogou.com/player[=]A<=>4030e[=]B<=>2048e[=]V<=>3.2.0.4262
+T<=>2020[=]P<=>SogouExplorer.exe[=]I<=>2584[=]U<=>http://zhidao.baidu.com/question/83157592[=]A<=>4030e[=]B<=>c0534[=]V<=>3.2.0.4262
+T<=>2048[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://player.mbox.sogou.com/player[=]A<=>4030e[=]B<=>2048e[=]V<=>3.2.0.4262
+T<=>2052[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://mp3.sogou.com/music.so[=]A<=>4030e[=]B<=>4051a[=]V<=>3.2.0.4262
+T<=>2058[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://123.ie.sogou.com/[=]A<=>4030e[=]B<=>203fe[=]V<=>3.2.0.4262
+T<=>2062[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://www.sogou.com/sogou[=]A<=>4030e[=]B<=>4050c[=]V<=>3.2.0.4262
+T<=>2070[=]P<=>SogouExplorer.exe[=]I<=>184[=]U<=>http://mp3.sogou.com/tag.so[=]A<=>4030e[=]B<=>f0534[=]V<=>3.2.0.4262
+T<=>2086[=]P<=>SogouExplorer.exe[=]I<=>184[=]U<=>http://player.mbox.sogou.com/player[=]A<=>4030e[=]B<=>60546[=]V<=>3.2.0.4262
+T<=>2088[=]P<=>SogouExplorer.exe[=]I<=>184[=]U<=>http://mp3.sogou.com/tag.so[=]A<=>4030e[=]B<=>f0534[=]V<=>3.2.0.4262
+T<=>2090[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://player.mbox.sogou.com/player[=]A<=>4030e[=]B<=>2048e[=]V<=>3.2.0.4262
+T<=>2094[=]P<=>SogouExplorer.exe[=]I<=>184[=]U<=>http://player.mbox.sogou.com/player[=]A<=>4030e[=]B<=>60546[=]V<=>3.2.0.4262
+T<=>2100[=]P<=>explorer.exe[=]I<=>2044[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>2104[=]P<=>QQ.exe[=]I<=>1612[=]W<=>40592[=]V<=>1.80.4145.0[=]N<=>NULL[=]C<=>Tencent
+T<=>2126[=]P<=>SogouExplorer.exe[=]I<=>184[=]U<=>http://player.mbox.sogou.com/player[=]A<=>4030e[=]B<=>60546[=]V<=>3.2.0.4262
+T<=>2136[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://player.mbox.sogou.com/player[=]A<=>4030e[=]B<=>2048e[=]V<=>3.2.0.4262
+T<=>2139[=]P<=>QQMusic.exe[=]I<=>4056[=]W<=>1b05ce[=]V<=>8.9.2364.1212[=]N<=>QQMusic[=]C<=>Tencent
+T<=>2147[=]P<=>SogouExplorer.exe[=]I<=>2584[=]W<=>204b4[=]V<=>3.2.0.4262
+T<=>2151[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://123.ie.sogou.com/[=]A<=>4030e[=]B<=>203fe[=]V<=>3.2.0.4262
+T<=>2167[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://www.sogou.com/sogou[=]A<=>4030e[=]B<=>5054c[=]V<=>3.2.0.4262
+T<=>2171[=]P<=>SogouExplorer.exe[=]I<=>2076[=]U<=>http://www.douban.com/group/topic/2927815/[=]A<=>4030e[=]B<=>100526[=]V<=>3.2.0.4262
+T<=>2521[=]P<=>QQ.exe[=]I<=>1612[=]W<=>30610[=]V<=>1.80.4145.0
+T<=>2523[=]P<=>jisibar.exe[=]I<=>648[=]W<=>101de[=]V<=>0.7.0.0
+T<=>3381[=]P<=>explorer.exe[=]I<=>2044[=]W<=>102ca[=]V<=>6.00.2900.5512
+T<=>3387[=]P<=>360se.exe[=]I<=>2508[=]W<=>303f8[=]V<=>4, 1, 6, 6
+T<=>3389[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>3391[=]P<=>360Safe.exe[=]I<=>540[=]W<=>6031c[=]V<=>7, 6, 0, 1035
+T<=>3405[=]P<=>360se.exe[=]I<=>2508[=]W<=>303f8[=]V<=>4, 1, 6, 6
+T<=>3417[=]P<=>360se.exe[=]I<=>1684[=]W<=>50474[=]V<=>4, 1, 6, 6
+T<=>3419[=]P<=>360se.exe[=]I<=>2508[=]W<=>303f8[=]V<=>4, 1, 6, 6
+T<=>3427[=]P<=>360se.exe[=]I<=>1684[=]W<=>50474[=]V<=>4, 1, 6, 6
+T<=>3429[=]P<=>explorer.exe[=]I<=>2044[=]W<=>102ca[=]V<=>6.00.2900.5512
+T<=>3431[=]P<=>SogouExplorer.exe[=]I<=>3632[=]U<=>http://123.ie.sogou.com/[=]A<=>260590[=]B<=>20624[=]V<=>3.2.0.4262
+T<=>3433[=]P<=>360Safe.exe[=]I<=>540[=]W<=>6031c[=]V<=>7, 6, 0, 1035
+T<=>3441[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>3443[=]P<=>SogouExplorer.exe[=]I<=>3756[=]U<=>http://123.ie.sogou.com/[=]A<=>260590[=]B<=>20624[=]V<=>3.2.0.4262
+T<=>3449[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.157/zhhrss/page/olservice.htm[=]A<=>260590[=]B<=>502c2[=]V<=>3.2.0.4262
+T<=>3463[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://www.gd.lss.gov.cn/gdlss/sy/index.htm[=]A<=>260590[=]B<=>2a0454[=]V<=>3.2.0.4262
+T<=>3465[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.157/zhhrss/page/olservice.htm[=]A<=>260590[=]B<=>502c2[=]V<=>3.2.0.4262
+T<=>3467[=]P<=>SogouExplorer.exe[=]I<=>3756[=]U<=>http://www.gd.lss.gov.cn/gdlss/sy/index.htm[=]A<=>260590[=]B<=>2a0454[=]V<=>3.2.0.4262
+T<=>3479[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://www.gd.lss.gov.cn/gdlss/sy/txl/t20060411_1325.htm[=]A<=>260590[=]B<=>80300[=]V<=>3.2.0.4262
+T<=>3485[=]P<=>SogouExplorer.exe[=]I<=>3756[=]U<=>http://www.zhldj.gov.cn/[=]A<=>260590[=]B<=>c048a[=]V<=>3.2.0.4262
+T<=>3489[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://www.zhrsj.gov.cn/[=]A<=>260590[=]B<=>c048a[=]V<=>3.2.0.4262
+T<=>3523[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/test/grcb.html[=]A<=>260590[=]B<=>206d4[=]V<=>3.2.0.4262
+T<=>3571[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/newquery/admin/checkUser_n.jsp[=]A<=>260590[=]B<=>3a05cc[=]V<=>3.2.0.4262
+T<=>3573[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/newquery/home/mainframe.jsp[=]A<=>260590[=]B<=>3a05cc[=]V<=>3.2.0.4262
+T<=>3575[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://www.zhrsj.gov.cn/[=]A<=>260590[=]B<=>c048a[=]V<=>3.2.0.4262
+T<=>3577[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/test/grcb.html[=]A<=>260590[=]B<=>206d4[=]V<=>3.2.0.4262
+T<=>3597[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/newquery/home/mainframe.jsp[=]A<=>260590[=]B<=>3a05cc[=]V<=>3.2.0.4262
+T<=>4195[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/test/grcb.html[=]A<=>260590[=]B<=>206d4[=]V<=>3.2.0.4262
+T<=>4197[=]P<=>SogouExplorer.exe[=]I<=>3756[=]U<=>http://61.145.228.148/test/grcb.html[=]A<=>260590[=]B<=>2c30366[=]V<=>3.2.0.4262
+T<=>4215[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/newquery/admin/checkUser_n.jsp[=]A<=>260590[=]B<=>150580[=]V<=>3.2.0.4262
+T<=>4219[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/newquery/home/mainframe.jsp[=]A<=>260590[=]B<=>150580[=]V<=>3.2.0.4262
+T<=>4311[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/test/grcb.html[=]A<=>260590[=]B<=>2c30366[=]V<=>3.2.0.4262
+T<=>4313[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://www.zhrsj.gov.cn/[=]A<=>260590[=]B<=>c048a[=]V<=>3.2.0.4262
+T<=>4325[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://www.gd.lss.gov.cn/gdlss/sy/txl/t20060411_1325.htm[=]A<=>260590[=]B<=>80300[=]V<=>3.2.0.4262
+T<=>4351[=]P<=>SogouExplorer.exe[=]I<=>3756[=]U<=>http://www.zhrsj.gov.cn/[=]A<=>260590[=]B<=>c048a[=]V<=>3.2.0.4262
+T<=>4355[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/test/grcb.html[=]A<=>260590[=]B<=>2c60366[=]V<=>3.2.0.4262
+T<=>4385[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/newquery/admin/checkUser_n.jsp[=]A<=>260590[=]B<=>1d0696[=]V<=>3.2.0.4262
+T<=>4387[=]P<=>SogouExplorer.exe[=]I<=>2724[=]U<=>http://61.145.228.148/newquery/home/mainframe.jsp[=]A<=>260590[=]B<=>1d0696[=]V<=>3.2.0.4262
+T<=>4963[=]P<=>explorer.exe[=]I<=>2044[=]W<=>102ca[=]V<=>6.00.2900.5512
+T<=>5119[=]P<=>360Safe.exe[=]I<=>3912[=]W<=>8032c[=]V<=>7, 6, 0, 1035
+T<=>5127[=]P<=>explorer.exe[=]I<=>2044[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>5133[=]P<=>TdxW.exe[=]I<=>3056[=]W<=>504ca[=]V<=>1, 0, 0, 1[=]N<=>TDX 应用程序[=]C<=>(通达信)深圳市财富趋势科技有限责任公司
+T<=>5143[=]P<=>360Safe.exe[=]I<=>3912[=]W<=>8032c[=]V<=>7, 6, 0, 1035
+T<=>5145[=]P<=>TdxW.exe[=]I<=>3056[=]W<=>604ca[=]V<=>1, 0, 0, 1
+T<=>5747[=]P<=>xiadan.exe[=]I<=>3328[=]W<=>2305a6[=]V<=>5, 16, 75, 484[=]N<=>网上交易主程序[=]C<=>杭州核新软件技术有限公司
+T<=>5797[=]P<=>TdxW.exe[=]I<=>3056[=]W<=>604ca[=]V<=>1, 0, 0, 1
+T<=>5799[=]P<=>explorer.exe[=]I<=>2044[=]W<=>102ca[=]V<=>6.00.2900.5512
+T<=>5807[=]P<=>QQ.exe[=]I<=>3856[=]W<=>8f0710[=]V<=>1.80.4145.0
+T<=>5815[=]P<=>explorer.exe[=]I<=>2044[=]W<=>8b06be[=]V<=>6.00.2900.5512
+T<=>5825[=]P<=>QQ.exe[=]I<=>3856[=]W<=>1073e[=]V<=>1.80.4145.0
+T<=>6116[=]P<=>et.exe[=]I<=>3428[=]W<=>3078e[=]V<=>8,1,0,2998[=]N<=>Kingsoft Office[=]C<=>Kingsoft Corp. Ltd.
+T<=>6150[=]P<=>QQ.exe[=]I<=>3856[=]W<=>1073e[=]V<=>1.80.4145.0
+T<=>6152[=]P<=>et.exe[=]I<=>3428[=]W<=>3078e[=]V<=>8,1,0,2998
+T<=>6154[=]P<=>QQ.exe[=]I<=>3856[=]W<=>207f4[=]V<=>1.80.4145.0
+T<=>6336[=]P<=>360se.exe[=]I<=>1940[=]W<=>10850[=]V<=>4, 1, 6, 6
+T<=>6338[=]P<=>360Safe.exe[=]I<=>3912[=]W<=>8032c[=]V<=>7, 6, 0, 1035
+T<=>6342[=]P<=>360se.exe[=]I<=>1940[=]W<=>30848[=]V<=>4, 1, 6, 6
+T<=>6410[=]P<=>QQ.exe[=]I<=>3856[=]W<=>207f4[=]V<=>1.80.4145.0
+T<=>6460[=]P<=>360tray.exe[=]I<=>476[=]W<=>40242[=]V<=>7, 7, 0, 1057[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>6462[=]P<=>TdxW.exe[=]I<=>3056[=]W<=>604ca[=]V<=>1, 0, 0, 1
+T<=>6998[=]P<=>xiadan.exe[=]I<=>3328[=]W<=>b0510[=]V<=>5, 16, 75, 484
+T<=>7020[=]P<=>et.exe[=]I<=>3428[=]W<=>3078e[=]V<=>8,1,0,2998
+T<=>7329[=]P<=>xiadan.exe[=]I<=>3328[=]W<=>b0510[=]V<=>5, 16, 75, 484
+T<=>7333[=]P<=>TdxW.exe[=]I<=>3056[=]W<=>5705e0[=]V<=>1, 0, 0, 1
+T<=>7335[=]P<=>explorer.exe[=]I<=>2044[=]W<=>8b06be[=]V<=>6.00.2900.5512
+T<=>7339[=]P<=>360Safe.exe[=]I<=>3912[=]W<=>8032c[=]V<=>7, 6, 0, 1035
+T<=>7359[=]P<=>explorer.exe[=]I<=>2044[=]W<=>8b06be[=]V<=>6.00.2900.5512
+T<=>7361[=]P<=>QQ.exe[=]I<=>3856[=]W<=>207f4[=]V<=>1.80.4145.0
+T<=>7423[=]P<=>explorer.exe[=]I<=>2044[=]W<=>8b06be[=]V<=>6.00.2900.5512
+T<=>7865[=]P<=>SogouExplorer.exe[=]I<=>3560[=]U<=>http://123.ie.sogou.com/[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>7871[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>aipai.com/[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>7877[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/c7/Pjo6KCEnJWgnaiEu.html[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>7881[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/c7/Pjw2JyMiJ2gnaiYv.html[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>8083[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/c7/Pjw2J[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>8085[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>8089[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>8091[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/c7/Pjw8KSgjIWgnaiUg.html[=]A<=>703d0[=]B<=>50456[=]V<=>3.2.0.4262
+T<=>8171[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8183[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8203[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8217[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8233[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8239[=]P<=>SogouExplorer.exe[=]I<=>2000[=]U<=>http://www.aipai.com/c8/ODk6JSQlIGgnai8u.html[=]A<=>703d0[=]B<=>1d0520[=]V<=>3.2.0.4262
+T<=>8638[=]P<=>360sd.exe[=]I<=>880[=]W<=>17064c[=]V<=>3, 0, 0, 3033[=]N<=>360杀毒[=]C<=>360.cn
+T<=>8646[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/c8/ODk6JSQlIGgnai8u.html[=]A<=>703d0[=]B<=>1d0520[=]V<=>3.2.0.4262
+T<=>8650[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8664[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8678[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8698[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8706[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8708[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/c10/OjQ_NiMjJG8maSI.html[=]A<=>703d0[=]B<=>12042e[=]V<=>3.2.0.4262
+T<=>8712[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>8714[=]P<=>SogouExplorer.exe[=]I<=>2268[=]U<=>http://www.aipai.com/c10/OjQ_NiMjJG8maSI.html[=]A<=>703d0[=]B<=>12042e[=]V<=>3.2.0.4262
+T<=>8958[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>a04b2[=]V<=>3.2.0.4262
+T<=>8964[=]P<=>SogouExplorer.exe[=]I<=>2268[=]U<=>http://www.aipai.com/c10/OjQ_NiMjJG8maSI.html[=]A<=>703d0[=]B<=>12042e[=]V<=>3.2.0.4262
+T<=>8996[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>9008[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>http://www.aipai.com/c10/Ozw4OyEpJ28maSE.html[=]A<=>703d0[=]B<=>14042e[=]V<=>3.2.0.4262
+T<=>9059[=]P<=>SogouExplorer.exe[=]I<=>3724[=]U<=>se://favor.sogou.com/newtab/[=]A<=>703d0[=]B<=>b04b2[=]V<=>3.2.0.4262
+T<=>9061[=]P<=>360tray.exe[=]I<=>476[=]W<=>d04f4[=]V<=>7, 7, 0, 1057
+T<=>9063[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>se://favor.sogou.com/newtab/[=]A<=>703d0[=]B<=>b04b2[=]V<=>3.2.0.4262
+T<=>9081[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.baidu.com/baidu[=]A<=>703d0[=]B<=>b04b2[=]V<=>3.2.0.4262
+T<=>9091[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>9095[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>9099[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>9121[=]P<=>SogouExplorer.exe[=]I<=>3952[=]U<=>http://www.aipai.com/space.php[=]A<=>703d0[=]B<=>d043c[=]V<=>3.2.0.4262
+T<=>9127[=]P<=>SogouExplorer.exe[=]I<=>2476[=]U<=>http://www.aipai.com/c10/Ozs3KCAqJGgnai8o.html[=]A<=>703d0[=]B<=>d04a8[=]V<=>3.2.0.4262
+T<=>9149[=]P<=>explorer.exe[=]I<=>2044[=]W<=>8b06be[=]V<=>6.00.2900.5512
+T<=>9161[=]P<=>ACDSee5.exe[=]I<=>3896[=]W<=>e02c0[=]V<=>5, 0, 1, 6[=]N<=>ACDSee[=]C<=>ACD Systems, Ltd.
+T<=>9175[=]P<=>explorer.exe[=]I<=>2044[=]W<=>e00ba[=]V<=>6.00.2900.5512
+T<=>9185[=]P<=>ACDSee5.exe[=]I<=>1848[=]W<=>903d2[=]V<=>5, 0, 1, 6
+T<=>10137[=]P<=>ssmypics.scr[=]I<=>556[=]W<=>300454[=]V<=>5.1.2600.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>10217[=]P<=>ACDSee5.exe[=]I<=>1848[=]W<=>903d2[=]V<=>5, 0, 1, 6
+T<=>10219[=]P<=>explorer.exe[=]I<=>2044[=]W<=>e00ba[=]V<=>6.00.2900.5512
+T<=>10221[=]P<=>360tray.exe[=]I<=>476[=]W<=>40242[=]V<=>7, 7, 0, 1057
+T<=>10223[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://123.ie.sogou.com[=]A<=>10049a[=]B<=>e043c[=]V<=>3.2.0.4262
+T<=>10225[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://123.ie.sogou.com/[=]A<=>10049a[=]B<=>e043c[=]V<=>3.2.0.4262
+T<=>10239[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.sogou.com/sogou[=]A<=>10049a[=]B<=>407f2[=]V<=>3.2.0.4262
+T<=>10247[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://xiazai.zol.com.cn/detail/6/50184.shtml[=]A<=>10049a[=]B<=>407be[=]V<=>3.2.0.4262
+T<=>10253[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://partner.funshion.com/partner/download.php[=]A<=>10049a[=]B<=>308bc[=]V<=>3.2.0.4262
+T<=>10255[=]P<=>SogouExplorer.exe[=]I<=>2772[=]W<=>208ba[=]V<=>3.2.0.4262
+T<=>10271[=]P<=>SogouExplorer.exe[=]I<=>2772[=]U<=>http://xiazai.zol.com.cn/detail/6/50184.shtml[=]A<=>10049a[=]B<=>407be[=]V<=>3.2.0.4262
+T<=>10273[=]P<=>SogouExplorer.exe[=]I<=>2772[=]U<=>se://favor.sogou.com/newtab/[=]A<=>10049a[=]B<=>40922[=]V<=>3.2.0.4262
+T<=>10287[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.baidu.com/baidu[=]A<=>10049a[=]B<=>40922[=]V<=>3.2.0.4262
+T<=>10293[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://zhidao.baidu.com/question/322980198.html[=]A<=>10049a[=]B<=>1f0868[=]V<=>3.2.0.4262
+T<=>10305[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.baidu.com/baidu[=]A<=>10049a[=]B<=>40922[=]V<=>3.2.0.4262
+T<=>10313[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://zhidao.baidu.com/question/323005661.html[=]A<=>10049a[=]B<=>308b2[=]V<=>3.2.0.4262
+T<=>10329[=]P<=>SogouExplorer.exe[=]I<=>2772[=]W<=>208ba[=]V<=>3.2.0.4262
+T<=>10331[=]P<=>FunshionInstall_C6930.exe[=]I<=>5788[=]W<=>1209b8[=]V<=>NULL[=]N<=>Funshion[=]C<=>Funshion Online Technologies Ltd.
+T<=>10333[=]P<=>SogouExplorer.exe[=]I<=>2772[=]W<=>208ba[=]V<=>3.2.0.4262
+T<=>10335[=]P<=>FunshionInstall_C6930.exe[=]I<=>5788[=]W<=>1409d8[=]V<=>NULL
+T<=>10339[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://zhidao.baidu.com/question/323005661.html[=]A<=>10049a[=]B<=>308b2[=]V<=>3.2.0.4262
+T<=>10341[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://xiazai.zol.com.cn/detail/6/50184.shtml[=]A<=>10049a[=]B<=>407be[=]V<=>3.2.0.4262
+T<=>10343[=]P<=>iexplore.exe[=]I<=>4680[=]U<=>NULL[=]A<=>d0998[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>10347[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://xiazai.zol.com.cn/detail/6/50184.shtml[=]A<=>10049a[=]B<=>407be[=]V<=>3.2.0.4262
+T<=>10355[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.adobe.com/cn/downloads/[=]A<=>10049a[=]B<=>407be[=]V<=>3.2.0.4262
+T<=>10361[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.sogou.com/sogou[=]A<=>10049a[=]B<=>407f2[=]V<=>3.2.0.4262
+T<=>10363[=]P<=>SogouExplorer.exe[=]I<=>2756[=]U<=>http://dl.pconline.com.cn/html_2/1/111/id=1200&pn=0.html[=]A<=>10049a[=]B<=>3076a[=]V<=>3.2.0.4262
+T<=>10371[=]P<=>SogouExplorer.exe[=]I<=>2756[=]U<=>http://dl.pconline.com.cn/html_2/1/111/id=1200&pn=0&linkPage=1.html[=]A<=>10049a[=]B<=>3076a[=]V<=>3.2.0.4262
+T<=>10377[=]P<=>SogouExplorer.exe[=]I<=>2756[=]U<=>http://dlc2.pconline.com.cn/filedown_1200_6367540/photoshop_cs4_demo.7z[=]A<=>10049a[=]B<=>40802[=]V<=>3.2.0.4262
+T<=>10379[=]P<=>SogouExplorer.exe[=]I<=>2772[=]W<=>208ba[=]V<=>3.2.0.4262
+T<=>10389[=]P<=>SogouExplorer.exe[=]I<=>2756[=]U<=>http://dl.pconline.com.cn/html_2/1/111/id=1200&pn=0&linkPage=1.html[=]A<=>10049a[=]B<=>3076a[=]V<=>3.2.0.4262
+T<=>10391[=]P<=>SogouExplorer.exe[=]I<=>2772[=]U<=>http://www.baidu.com/baidu[=]A<=>10049a[=]B<=>40922[=]V<=>3.2.0.4262
+T<=>10393[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.sogou.com/sogou[=]A<=>10049a[=]B<=>407f2[=]V<=>3.2.0.4262
+T<=>10395[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://123.ie.sogou.com/[=]A<=>10049a[=]B<=>e043c[=]V<=>3.2.0.4262
+T<=>10397[=]P<=>SogouExplorer.exe[=]I<=>2756[=]U<=>http://dl.pconline.com.cn/html_2/1/111/id=1200&pn=0&linkPage=1.html[=]A<=>10049a[=]B<=>3076a[=]V<=>3.2.0.4262
+T<=>10401[=]P<=>SogouExplorer.exe[=]I<=>2772[=]W<=>208ba[=]V<=>3.2.0.4262
+T<=>10429[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.sogou.com/sogou[=]A<=>10049a[=]B<=>407f2[=]V<=>3.2.0.4262
+T<=>10439[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://quan.sogou.com/quan[=]A<=>10049a[=]B<=>50924[=]V<=>3.2.0.4262
+T<=>10457[=]P<=>SogouExplorer.exe[=]I<=>2772[=]W<=>208ba[=]V<=>3.2.0.4262
+T<=>10468[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://quan.sogou.com/quan[=]A<=>10049a[=]B<=>50924[=]V<=>3.2.0.4262
+T<=>10480[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://quan.sogou.com/quan[=]A<=>10049a[=]B<=>50924[=]V<=>3.2.0.4262
+T<=>10482[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.sogou.com/web[=]A<=>10049a[=]B<=>50924[=]V<=>3.2.0.4262
+T<=>10490[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://xiazai.zol.com.cn/detail/6/50184.shtml[=]A<=>10049a[=]B<=>1103e2[=]V<=>3.2.0.4262
+T<=>10496[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.adobe.com/cn/downloads/[=]A<=>10049a[=]B<=>1103e2[=]V<=>3.2.0.4262
+T<=>10514[=]P<=>SogouExplorer.exe[=]I<=>3964[=]U<=>http://www.sogou.com/web[=]A<=>10049a[=]B<=>50924[=]V<=>3.2.0.4262
+T<=>10516[=]P<=>SogouExplorer.exe[=]I<=>2772[=]W<=>1203e2[=]V<=>3.2.0.4262
+T<=>10522[=]P<=>SogouExplorer.exe[=]I<=>2756[=]U<=>http://www.webps.cn/[=]A<=>10049a[=]B<=>1303e2[=]V<=>3.2.0.4262
+T<=>10584[=]P<=>ACDSee5.exe[=]I<=>1848[=]W<=>903d2[=]V<=>5, 0, 1, 6
+T<=>10587[=]P<=>SogouExplorer.exe[=]I<=>2772[=]U<=>NULL[=]A<=>10049a[=]B<=>1303e2[=]V<=>3.2.0.4262
+T<=>10589[=]P<=>360tray.exe[=]I<=>476[=]W<=>40242[=]V<=>7, 7, 0, 1057
+T<=>10592[=]P<=>explorer.exe[=]I<=>2044[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>10596[=]P<=>SogouExplorer.exe[=]I<=>5608[=]U<=>http://123.ie.sogou.com[=]A<=>c049c[=]B<=>5d0508[=]V<=>3.2.0.4262
+T<=>10598[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://123.ie.sogou.com/[=]A<=>c049c[=]B<=>5d0508[=]V<=>3.2.0.4262
+T<=>10604[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>10614[=]P<=>SogouExplorer.exe[=]I<=>4344[=]U<=>http://www.webps.cn/photo/[=]A<=>c049c[=]B<=>5076e[=]V<=>3.2.0.4262
+T<=>10620[=]P<=>SogouExplorer.exe[=]I<=>4344[=]U<=>http://www.webps.cn/[=]A<=>c049c[=]B<=>5076e[=]V<=>3.2.0.4262
+T<=>10678[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>10680[=]P<=>SogouExplorer.exe[=]I<=>4296[=]U<=>http://www.webps.cn/photo/[=]A<=>c049c[=]B<=>40776[=]V<=>3.2.0.4262
+T<=>10686[=]P<=>SogouExplorer.exe[=]I<=>4296[=]U<=>http://www.webps.cn/[=]A<=>c049c[=]B<=>40776[=]V<=>3.2.0.4262
+T<=>10760[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>10762[=]P<=>SogouExplorer.exe[=]I<=>2628[=]U<=>http://www.tuyitu.com/[=]A<=>c049c[=]B<=>d0754[=]V<=>3.2.0.4262
+T<=>11007[=]P<=>SogouExplorer.exe[=]I<=>5608[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>11009[=]P<=>SogouExplorer.exe[=]I<=>5608[=]U<=>http://www.tuyitu.com/[=]A<=>c049c[=]B<=>d0754[=]V<=>3.2.0.4262
+T<=>11011[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>11019[=]P<=>SogouExplorer.exe[=]I<=>5608[=]U<=>http://www.tuyitu.com/[=]A<=>c049c[=]B<=>d0754[=]V<=>3.2.0.4262
+T<=>11187[=]P<=>SogouExplorer.exe[=]I<=>2628[=]U<=>http://www.ediy.com/zh-CN/goods/[=]A<=>c049c[=]B<=>908bc[=]V<=>3.2.0.4262
+T<=>11189[=]P<=>SogouExplorer.exe[=]I<=>2628[=]U<=>http://www.tuyitu.com/[=]A<=>c049c[=]B<=>d0754[=]V<=>3.2.0.4262
+T<=>11195[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>11209[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>11213[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://xiuxiu.meitu.com/[=]A<=>c049c[=]B<=>16079e[=]V<=>3.2.0.4262
+T<=>11215[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://xiuxiu.dl.meitu.com/XiuXiu_360Setup_3.1.3.exe[=]A<=>c049c[=]B<=>16079e[=]V<=>3.2.0.4262
+T<=>11225[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>11241[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>11251[=]P<=>SogouExplorer.exe[=]I<=>5608[=]W<=>40762[=]V<=>3.2.0.4262
+T<=>11263[=]P<=>XiuXiu_360Setup_3.1.3.exe[=]I<=>3348[=]W<=>f07ee[=]V<=>NULL[=]N<=>美图秀秀[=]C<=>NULL
+T<=>11277[=]P<=>mtxxse.exe[=]I<=>5116[=]W<=>f0908[=]V<=>1, 0, 0, 2[=]N<=>HttpDownLoad Application[=]C<=>NULL
+T<=>11281[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>11283[=]P<=>mtxxse.exe[=]I<=>5116[=]W<=>f0908[=]V<=>1, 0, 0, 2
+T<=>11285[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>11287[=]P<=>SogouExplorer.exe[=]I<=>1976[=]U<=>http://www.sogou.com/sogou[=]A<=>c049c[=]B<=>1706e4[=]V<=>3.2.0.4262
+T<=>11305[=]P<=>XiuXiu_360Setup_3.1.3.exe[=]I<=>3348[=]W<=>f07ee[=]V<=>NULL
+T<=>11311[=]P<=>SogouExplorer.exe[=]I<=>5608[=]W<=>40762[=]V<=>3.2.0.4262
+T<=>11313[=]P<=>explorer.exe[=]I<=>2044[=]W<=>3006a[=]V<=>6.00.2900.5512
+T<=>11320[=]P<=>360se.exe[=]I<=>5108[=]W<=>50962[=]V<=>4, 1, 6, 6
+T<=>11324[=]P<=>XiuXiu.exe[=]I<=>4324[=]W<=>809d2[=]V<=>3.1.3.1001[=]N<=>TODO: <产品名>[=]C<=>美图网

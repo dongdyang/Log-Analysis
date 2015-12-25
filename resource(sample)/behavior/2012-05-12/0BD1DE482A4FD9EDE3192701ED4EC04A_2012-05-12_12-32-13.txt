@@ -1,0 +1,11 @@
+Last<=>1661
+L_Start<=>2012-05-12 12-32-13
+T<=>72[=]P<=>QQBrowser.exe[=]I<=>4568[=]V<=>6, 12, 12934, 201
+T<=>74[=]P<=>QQBrowser.exe[=]I<=>5164[=]V<=>6, 12, 12934, 201
+T<=>83[=]P<=>QQBrowser.exe[=]I<=>4400[=]V<=>6, 12, 12934, 201
+T<=>85[=]P<=>QQBrowser.exe[=]I<=>5164[=]V<=>6, 12, 12934, 201
+T<=>106[=]P<=>QQDownload.exe[=]I<=>5828[=]V<=>3, 7, 691, 401
+T<=>112[=]P<=>QQBrowser.exe[=]I<=>5164[=]V<=>6, 12, 12934, 201
+T<=>1058[=]P<=>QQBrowser.exe[=]I<=>4400[=]V<=>6, 12, 12934, 201
+T<=>1060[=]P<=>QQBrowser.exe[=]I<=>5164[=]V<=>6, 12, 12934, 201
+T<=>1661[=]P<=>explorer.exe[=]I<=>2736[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation

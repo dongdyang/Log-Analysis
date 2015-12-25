@@ -1,0 +1,9 @@
+Mapper类有四个方法：
+
+（1）protected void setup(Context context)
+
+（2）protected void map(KEYIN key,VALUEIN value,Context context)
+
+（3）protected void cleanup(Context context)
+
+（4）public void run(Context context)

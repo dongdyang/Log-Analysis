@@ -1,0 +1,44 @@
+Last<=>7665
+L_Start<=>2012-05-12 10-49-03
+T<=>170[=]P<=>PlantsVsZombie.exe[=]I<=>296[=]W<=>20194[=]V<=>1, 1, 0, 1001[=]N<=>植物大战僵尸[=]C<=>NULL
+T<=>180[=]P<=>AliIM.exe[=]I<=>1664[=]W<=>101da[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>188[=]P<=>Thunder.exe[=]I<=>2156[=]W<=>102f6[=]V<=>7, 2, 5, 3364[=]N<=>迅雷7[=]C<=>NULL
+T<=>190[=]P<=>QTC.exe[=]I<=>1124[=]W<=>10290[=]V<=>1.1.0[=]N<=>题客网调查助手[=]C<=>北京华通明略信息咨询有限公司
+T<=>204[=]P<=>AliIM.exe[=]I<=>1664[=]W<=>101da[=]V<=>1, 0, 0, 1
+T<=>242[=]P<=>PlantsVsZombies.exe[=]I<=>3388[=]W<=>1036a[=]V<=>1.1.0.1001[=]N<=>Plants vs. Zombies[=]C<=>NULL
+T<=>451[=]P<=>ThunderBhoStat.exe[=]I<=>3420[=]W<=>21050e[=]V<=>1.0.1.324[=]N<=>迅雷7[=]C<=>深圳市迅雷网络技术有限公司
+T<=>453[=]P<=>PlantsVsZombies.exe[=]I<=>3388[=]W<=>1036a[=]V<=>1.1.0.1001
+T<=>517[=]P<=>ThunderMinisite.exe[=]I<=>2644[=]W<=>20268[=]V<=>2, 0, 1, 30[=]N<=>迅雷资讯[=]C<=>Thunder Networking Technologies,LTD
+T<=>519[=]P<=>PlantsVsZombies.exe[=]I<=>3388[=]W<=>1036a[=]V<=>1.1.0.1001
+T<=>695[=]P<=>iexplore.exe[=]I<=>2316[=]U<=>http://bbs.taobao.com/catalog/thread/154504-250896033.htm[=]A<=>103e8[=]B<=>1042c[=]V<=>8.00.6001.18702[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>701[=]P<=>PlantsVsZombies.exe[=]I<=>3388[=]W<=>1036a[=]V<=>1.1.0.1001
+T<=>2080[=]P<=>explorer.exe[=]I<=>1528[=]W<=>10094[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>2086[=]P<=>PlantsVsZombies.exe[=]I<=>3388[=]W<=>1036a[=]V<=>1.1.0.1001
+T<=>4663[=]P<=>KSafeTray.exe[=]I<=>2052[=]W<=>a01f2[=]V<=>3.5.1.2244[=]N<=>金山卫士[=]C<=>Kingsoft Corporation
+T<=>4665[=]P<=>KSafe.exe[=]I<=>3620[=]W<=>60200[=]V<=>3.5.1.2241[=]N<=>金山卫士[=]C<=>Kingsoft Corporation
+T<=>4677[=]P<=>PlantsVsZombies.exe[=]I<=>3388[=]W<=>1036a[=]V<=>1.1.0.1001
+T<=>4909[=]P<=>PlantsVsZombie.exe[=]I<=>296[=]W<=>20194[=]V<=>1, 1, 0, 1001
+T<=>4911[=]P<=>AliIM.exe[=]I<=>1664[=]W<=>10328[=]V<=>1, 0, 0, 1
+T<=>4917[=]P<=>explorer.exe[=]I<=>1528[=]W<=>10094[=]V<=>6.00.2900.5512
+T<=>4923[=]P<=>PPLive.exe[=]I<=>2936[=]W<=>3018c[=]V<=>3,1,3,2235[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>5107[=]P<=>Thunder.exe[=]I<=>2156[=]W<=>102f0[=]V<=>7, 2, 5, 3364
+T<=>7738[=]P<=>explorer.exe[=]I<=>1528[=]W<=>10096[=]V<=>6.00.2900.5512
+T<=>7742[=]P<=>PPLive.exe[=]I<=>2936[=]W<=>2033a[=]V<=>3,1,3,2235
+T<=>71[=]P<=>explorer.exe[=]I<=>628[=]W<=>10088[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>75[=]P<=>AliIM.exe[=]I<=>3360[=]W<=>1022a[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>77[=]P<=>QTC.exe[=]I<=>3408[=]W<=>10228[=]V<=>1.1.0[=]N<=>题客网调查助手[=]C<=>北京华通明略信息咨询有限公司
+T<=>81[=]P<=>Thunder.exe[=]I<=>3516[=]W<=>102a8[=]V<=>7, 2, 5, 3364[=]N<=>迅雷7[=]C<=>NULL
+T<=>85[=]P<=>AliIM.exe[=]I<=>3360[=]W<=>102ee[=]V<=>1, 0, 0, 1
+T<=>137[=]P<=>AliIM.exe[=]I<=>2988[=]W<=>30258[=]V<=>1, 0, 0, 1
+T<=>157[=]P<=>KSafeTray.exe[=]I<=>1968[=]W<=>10116[=]V<=>3.5.1.2244[=]N<=>金山卫士[=]C<=>Kingsoft Corporation
+T<=>159[=]P<=>explorer.exe[=]I<=>628[=]W<=>10088[=]V<=>6.00.2900.5512
+T<=>161[=]P<=>EXCEL.EXE[=]I<=>2288[=]W<=>800a6[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>419[=]P<=>ThunderMinisite.exe[=]I<=>552[=]W<=>4018e[=]V<=>2, 0, 1, 30[=]N<=>迅雷资讯[=]C<=>Thunder Networking Technologies,LTD
+T<=>421[=]P<=>EXCEL.EXE[=]I<=>2288[=]W<=>800a6[=]V<=>11.0.8346
+T<=>451[=]P<=>explorer.exe[=]I<=>628[=]W<=>10088[=]V<=>6.00.2900.5512
+T<=>467[=]P<=>PPLive.exe[=]I<=>2184[=]W<=>30190[=]V<=>3,1,3,2235[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>481[=]P<=>Thunder.exe[=]I<=>3516[=]W<=>20480[=]V<=>7, 2, 5, 3364
+T<=>483[=]P<=>PPLive.exe[=]I<=>2184[=]W<=>30190[=]V<=>3,1,3,2235
+T<=>649[=]P<=>Thunder.exe[=]I<=>3516[=]W<=>10292[=]V<=>7, 2, 5, 3364
+T<=>1801[=]P<=>AliIM.exe[=]I<=>3360[=]W<=>1022a[=]V<=>1, 0, 0, 1
+T<=>4784[=]P<=>PPLive.exe[=]I<=>2184[=]W<=>30190[=]V<=>3,1,3,2235

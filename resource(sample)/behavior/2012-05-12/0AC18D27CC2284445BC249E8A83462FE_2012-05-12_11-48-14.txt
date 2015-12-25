@@ -1,0 +1,712 @@
+Last<=>2203
+L_Start<=>2012-05-12 11-48-14
+T<=>482[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>about:blank[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>492[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/hq/ccb.html[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>508[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>515[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/[=]A<=>20562[=]B<=>20600[=]V<=>9.00.8112.16421
+T<=>517[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/2012-05/12_5068901.html[=]A<=>20562[=]B<=>20600[=]V<=>9.00.8112.16421
+T<=>529[=]P<=>360tray.exe[=]I<=>2732[=]W<=>10186[=]V<=>7, 7, 0, 1057[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>531[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/2012-05/12_5068901.html[=]A<=>20562[=]B<=>20600[=]V<=>9.00.8112.16421
+T<=>570[=]P<=>AliIM.exe[=]I<=>3368[=]W<=>3039e[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>576[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/2012-05/12_5068901.html[=]A<=>20562[=]B<=>20600[=]V<=>9.00.8112.16421
+T<=>589[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>599[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/[=]A<=>20562[=]B<=>40644[=]V<=>9.00.8112.16421
+T<=>601[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/etf/[=]A<=>20562[=]B<=>40644[=]V<=>9.00.8112.16421
+T<=>630[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.zhijinwang.com/zhj/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>634[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>638[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>4061e[=]V<=>9.00.8112.16421
+T<=>641[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/s2012/nuokang/[=]A<=>20562[=]B<=>4061e[=]V<=>9.00.8112.16421
+T<=>754[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/s2012/nuokang/[=]A<=>20562[=]B<=>5039e[=]V<=>9.00.8112.16421
+T<=>757[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/s2012/nuokang/[=]A<=>20562[=]B<=>4061e[=]V<=>9.00.8112.16421
+T<=>759[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/20120512/n342997584.shtml[=]A<=>20562[=]B<=>5039e[=]V<=>9.00.8112.16421
+T<=>920[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/s2012/nuokang/[=]A<=>20562[=]B<=>4061e[=]V<=>9.00.8112.16421
+T<=>922[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>929[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>406fa[=]V<=>9.00.8112.16421
+T<=>931[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/s2012/3702/s342992998/[=]A<=>20562[=]B<=>406fa[=]V<=>9.00.8112.16421
+T<=>941[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/s2012/3702/s342992998/[=]A<=>20562[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>943[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/s2012/3702/s342992998/[=]A<=>20562[=]B<=>406fa[=]V<=>9.00.8112.16421
+T<=>1947[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>1963[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>406ea[=]V<=>9.00.8112.16421
+T<=>1965[=]P<=>explorer.exe[=]I<=>500[=]W<=>10076[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1967[=]P<=>QQ.exe[=]I<=>8164[=]W<=>506a0[=]V<=>1.71.5064.536[=]N<=>QQ2011[=]C<=>Tencent
+T<=>1979[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/20120512/n343004017.shtml[=]A<=>20562[=]B<=>406ea[=]V<=>9.00.8112.16421
+T<=>1981[=]P<=>QQ.exe[=]I<=>6356[=]W<=>50728[=]V<=>1.71.5064.536
+T<=>1987[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/20120512/n343004017.shtml[=]A<=>20562[=]B<=>406ea[=]V<=>9.00.8112.16421
+T<=>1995[=]P<=>QQ.exe[=]I<=>6356[=]W<=>1073e[=]V<=>1.71.5064.536
+T<=>2021[=]P<=>popup_QQ.exe[=]I<=>8164[=]W<=>4076e[=]V<=>1.71.5064.536
+T<=>2023[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/20120512/n343004017.shtml[=]A<=>20562[=]B<=>406ea[=]V<=>9.00.8112.16421
+T<=>2031[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>2034[=]P<=>popup_QQ.exe[=]I<=>8164[=]W<=>4076e[=]V<=>1.71.5064.536
+T<=>2038[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>2046[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>3075e[=]V<=>9.00.8112.16421
+T<=>2051[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://pic.news.sohu.com/group-345552.shtml[=]A<=>20562[=]B<=>3075e[=]V<=>9.00.8112.16421
+T<=>2053[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://pic.news.sohu.com/group-345552.shtml#0[=]A<=>20562[=]B<=>3075e[=]V<=>9.00.8112.16421
+T<=>2080[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://pic.news.sohu.com/group-345552.shtml#1[=]A<=>20562[=]B<=>3075e[=]V<=>9.00.8112.16421
+T<=>2088[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://pic.news.sohu.com/group-345552.shtml#3[=]A<=>20562[=]B<=>3075e[=]V<=>9.00.8112.16421
+T<=>2090[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>2108[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>40786[=]V<=>9.00.8112.16421
+T<=>2111[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/20120511/n342989280.shtml[=]A<=>20562[=]B<=>40786[=]V<=>9.00.8112.16421
+T<=>2179[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>2183[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>c06c8[=]V<=>9.00.8112.16421
+T<=>2188[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>2204[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/20120511/n342993189.shtml[=]A<=>20562[=]B<=>c06c8[=]V<=>9.00.8112.16421
+T<=>2276[=]P<=>QQ.exe[=]I<=>8164[=]W<=>404a6[=]V<=>1.71.5064.536
+T<=>2298[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.sohu.com/20120512/n343000611.shtml[=]A<=>20562[=]B<=>60750[=]V<=>9.00.8112.16421
+T<=>2303[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>2346[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>c06ea[=]V<=>9.00.8112.16421
+T<=>2348[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://blog.sohu.com/[=]A<=>20562[=]B<=>c06ea[=]V<=>9.00.8112.16421
+T<=>2645[=]P<=>热带鱼水族箱屏保.scr[=]I<=>4596[=]W<=>9072c[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>2786[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://blog.sohu.com/[=]A<=>20562[=]B<=>c06ea[=]V<=>9.00.8112.16421
+T<=>2788[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://blog.sohu.com/[=]A<=>20562[=]B<=>10063c[=]V<=>9.00.8112.16421
+T<=>2790[=]P<=>360tray.exe[=]I<=>2732[=]W<=>10478[=]V<=>7, 7, 0, 1057
+T<=>2806[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>2808[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://chenjieren.i.sohu.com/blog/view/215677341.htm[=]A<=>20562[=]B<=>10063c[=]V<=>9.00.8112.16421
+T<=>2931[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://club.sohu.com/#screen1[=]A<=>20562[=]B<=>7075c[=]V<=>9.00.8112.16421
+T<=>2934[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://club.sohu.com/#screen1[=]A<=>20562[=]B<=>b0752[=]V<=>9.00.8112.16421
+T<=>2936[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://club.sh.sohu.com/r-zz0889-1056839-0-0-900.html[=]A<=>20562[=]B<=>b0752[=]V<=>9.00.8112.16421
+T<=>2972[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://club.sohu.com/#screen1[=]A<=>20562[=]B<=>7075c[=]V<=>9.00.8112.16421
+T<=>2974[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>3277[=]P<=>热带鱼水族箱屏保.scr[=]I<=>9104[=]W<=>4081a[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>4049[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.sohu.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>4202[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>4231[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/mainland/special/nanhaizhengduan/content-3/detail_2012_05/12/14479644_0.shtml[=]A<=>20562[=]B<=>50654[=]V<=>9.00.8112.16421
+T<=>4343[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/mainland/special/nanhaizhengduan/content-3/detail_2012_05/12/14479644_0.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4348[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_0.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4367[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_1.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4375[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_2.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4381[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_3.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4388[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_4.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4404[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_5.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4435[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_6.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4456[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_7.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4458[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_8.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4471[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_9.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4477[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_10.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4493[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_11.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4524[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_12.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4528[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_13.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4537[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_14.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4572[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_15.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4598[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_16.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4602[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_17.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4606[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_18.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4613[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/weeklypicture/detail_2012_05/10/14440818_19.shtml[=]A<=>20562[=]B<=>1406b8[=]V<=>9.00.8112.16421
+T<=>4615[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/mainland/special/nanhaizhengduan/content-3/detail_2012_05/12/14479644_0.shtml[=]A<=>20562[=]B<=>50654[=]V<=>9.00.8112.16421
+T<=>4617[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>4623[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>c0660[=]V<=>9.00.8112.16421
+T<=>4625[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/mainland/special/nanhaizhengduan/content-3/detail_2012_05/12/14478551_0.shtml[=]A<=>20562[=]B<=>c0660[=]V<=>9.00.8112.16421
+T<=>4627[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>4645[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>c06f2[=]V<=>9.00.8112.16421
+T<=>4647[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/mainland/detail_2012_05/12/14482981_0.shtml[=]A<=>20562[=]B<=>c06f2[=]V<=>9.00.8112.16421
+T<=>4649[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/mainland/special/nanhaizhengduan/content-3/detail_2012_05/12/14478551_0.shtml[=]A<=>20562[=]B<=>c0660[=]V<=>9.00.8112.16421
+T<=>4671[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>4700[=]P<=>QQ.exe[=]I<=>6356[=]W<=>e06d2[=]V<=>1.71.5064.536
+T<=>5000[=]P<=>热带鱼水族箱屏保.scr[=]I<=>10344[=]W<=>70600[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>5131[=]P<=>QQ.exe[=]I<=>6356[=]W<=>e06d2[=]V<=>1.71.5064.536
+T<=>5133[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>5205[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>b060c[=]V<=>9.00.8112.16421
+T<=>5207[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>5238[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/[=]A<=>20562[=]B<=>b060c[=]V<=>9.00.8112.16421
+T<=>5251[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/[=]A<=>20562[=]B<=>707e4[=]V<=>9.00.8112.16421
+T<=>5253[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/whrd/detail_2012_05/12/14482943_0.shtml[=]A<=>20562[=]B<=>707e4[=]V<=>9.00.8112.16421
+T<=>5323[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/[=]A<=>20562[=]B<=>b060c[=]V<=>9.00.8112.16421
+T<=>5330[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5332[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/gaoqing/detail_2012_05/11/14465215_0.shtml[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5362[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/gaoqing/detail_2012_05/11/14465215_1.shtml[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5368[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/gaoqing/detail_2012_05/11/14465215_2.shtml[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5373[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/gaoqing/detail_2012_05/11/14465215_3.shtml[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5379[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/gaoqing/detail_2012_05/11/14465215_4.shtml[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5383[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/gaoqing/detail_2012_05/11/14465215_5.shtml[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5389[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://culture.ifeng.com/gaoqing/detail_2012_05/11/14465215_6.shtml[=]A<=>20562[=]B<=>707d0[=]V<=>9.00.8112.16421
+T<=>5399[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>5434[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>707fc[=]V<=>9.00.8112.16421
+T<=>5436[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>5444[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/mainland/detail_2012_05/12/14482981_0.shtml[=]A<=>20562[=]B<=>707fc[=]V<=>9.00.8112.16421
+T<=>5510[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>5514[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>150634[=]V<=>9.00.8112.16421
+T<=>5517[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/society/2/detail_2012_05/12/14474962_0.shtml[=]A<=>20562[=]B<=>150634[=]V<=>9.00.8112.16421
+T<=>5548[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/society/2/detail_2012_05/12/14474962_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5553[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14461762_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5579[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14461762_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5596[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5623[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5633[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_2.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5645[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_3.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5659[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_4.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5676[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_5.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5686[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_6.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5701[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_7.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5715[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_8.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5723[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460597_9.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5734[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460220_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5758[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460220_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5785[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460051_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5803[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460051_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5818[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460051_2.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5833[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460051_3.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5839[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/11/14460051_4.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5849[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/10/14434271_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5855[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/10/14434271_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5859[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/10/14434271_2.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5861[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/10/14433068_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5872[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/10/14433068_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5876[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/10/14433068_2.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5880[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/10/14433068_3.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5888[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14409490_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5896[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14407380_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5913[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14407380_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5943[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14407380_2.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5950[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14407380_3.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5958[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14407380_4.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5970[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14407380_5.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5976[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14407380_6.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>5985[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6018[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_1.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6028[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_2.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6038[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_3.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6044[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_4.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6063[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_5.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6076[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_6.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6078[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406786_7.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6096[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://news.ifeng.com/photo/hdsociety/detail_2012_05/09/14406748_0.shtml[=]A<=>20562[=]B<=>1506fa[=]V<=>9.00.8112.16421
+T<=>6100[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://www.ifeng.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>6112[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>6291[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>f04a0[=]V<=>9.00.8112.16421
+T<=>6293[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186364-1-1.html[=]A<=>20562[=]B<=>f04a0[=]V<=>9.00.8112.16421
+T<=>6352[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>6358[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>a07a0[=]V<=>9.00.8112.16421
+T<=>6362[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186317-1-1.html[=]A<=>20562[=]B<=>a07a0[=]V<=>9.00.8112.16421
+T<=>6513[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>6515[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>c081a[=]V<=>9.00.8112.16421
+T<=>6520[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186353-1-1.html[=]A<=>20562[=]B<=>c081a[=]V<=>9.00.8112.16421
+T<=>6522[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>6526[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>b0798[=]V<=>9.00.8112.16421
+T<=>6530[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186353-1-1.html[=]A<=>20562[=]B<=>c081a[=]V<=>9.00.8112.16421
+T<=>6588[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186355-1-1.html[=]A<=>20562[=]B<=>b0798[=]V<=>9.00.8112.16421
+T<=>6614[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>6616[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>c07d0[=]V<=>9.00.8112.16421
+T<=>6621[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186343-1-1.html[=]A<=>20562[=]B<=>c07d0[=]V<=>9.00.8112.16421
+T<=>6917[=]P<=>热带鱼水族箱屏保.scr[=]I<=>15728[=]W<=>11071e[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>7609[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186343-1-1.html[=]A<=>20562[=]B<=>c07d0[=]V<=>9.00.8112.16421
+T<=>7623[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7629[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>59042c[=]V<=>9.00.8112.16421
+T<=>7634[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7636[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>13071e[=]V<=>9.00.8112.16421
+T<=>7638[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186292-1-1.html[=]A<=>20562[=]B<=>13071e[=]V<=>9.00.8112.16421
+T<=>7664[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186361-1-1.html[=]A<=>20562[=]B<=>59042c[=]V<=>9.00.8112.16421
+T<=>7675[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7677[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>1404a0[=]V<=>9.00.8112.16421
+T<=>7679[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7681[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>1b061e[=]V<=>9.00.8112.16421
+T<=>7683[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186285-1-1.html[=]A<=>20562[=]B<=>1b061e[=]V<=>9.00.8112.16421
+T<=>7730[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186299-1-1.html[=]A<=>20562[=]B<=>1404a0[=]V<=>9.00.8112.16421
+T<=>7734[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7747[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>6506ca[=]V<=>9.00.8112.16421
+T<=>7749[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186301-1-1.html[=]A<=>20562[=]B<=>6506ca[=]V<=>9.00.8112.16421
+T<=>7761[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7766[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>190634[=]V<=>9.00.8112.16421
+T<=>7768[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186301-1-1.html[=]A<=>20562[=]B<=>6506ca[=]V<=>9.00.8112.16421
+T<=>7778[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186289-1-1.html[=]A<=>20562[=]B<=>190634[=]V<=>9.00.8112.16421
+T<=>7784[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7786[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>11081a[=]V<=>9.00.8112.16421
+T<=>7788[=]P<=>360Safe.exe[=]I<=>17096[=]W<=>180616[=]V<=>7, 6, 0, 1035[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>7792[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/thread-1186290-1-1.html[=]A<=>20562[=]B<=>11081a[=]V<=>9.00.8112.16421
+T<=>7821[=]P<=>iexplore.exe[=]I<=>5564[=]U<=>http://bbs.ziling.com/[=]A<=>20562[=]B<=>20404[=]V<=>9.00.8112.16421
+T<=>7827[=]P<=>360Safe.exe[=]I<=>17096[=]W<=>180616[=]V<=>7, 6, 0, 1035
+T<=>7833[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>7844[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>NULL[=]A<=>30568[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>7848[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>7882[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>e06d8[=]V<=>9.00.8112.16421
+T<=>7886[=]P<=>360Safe.exe[=]I<=>17096[=]W<=>180616[=]V<=>7, 6, 0, 1035
+T<=>7895[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>7900[=]P<=>360Safe.exe[=]I<=>17096[=]W<=>180616[=]V<=>7, 6, 0, 1035
+T<=>7914[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/Soft/201205/34743.shtml[=]A<=>30568[=]B<=>407b0[=]V<=>9.00.8112.16421
+T<=>8027[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/Soft/201205/34743.shtml[=]A<=>30568[=]B<=>54066c[=]V<=>9.00.8112.16421
+T<=>8031[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://db.gamersky.com/Soft/ShowSoftDown.asp[=]A<=>30568[=]B<=>54066c[=]V<=>9.00.8112.16421
+T<=>8039[=]P<=>Thunder.exe[=]I<=>17888[=]W<=>7f05bc[=]V<=>7.2.7.3496[=]N<=>迅雷7[=]C<=>深圳市迅雷网络技术有限公司
+T<=>8041[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/Soft/201205/34743.shtml[=]A<=>30568[=]B<=>407b0[=]V<=>9.00.8112.16421
+T<=>8044[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8053[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8058[=]P<=>360Safe.exe[=]I<=>16796[=]W<=>20934[=]V<=>7, 6, 0, 1035
+T<=>8060[=]P<=>SoftManager.exe[=]I<=>15372[=]W<=>20852[=]V<=>4, 0, 0, 1162[=]N<=>360软件管家[=]C<=>360.cn
+T<=>8063[=]P<=>ThunderMinisite.exe[=]I<=>16524[=]W<=>80826[=]V<=>2, 0, 1, 28[=]N<=>迅雷7[=]C<=>深圳市迅雷网络技术有限公司
+T<=>8065[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8094[=]P<=>Thunder.exe[=]I<=>17888[=]W<=>30896[=]V<=>7.2.7.3496
+T<=>8101[=]P<=>explorer.exe[=]I<=>17636[=]W<=>608fe[=]V<=>6.1.7600.16385
+T<=>8108[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8118[=]P<=>iexplore.exe[=]I<=>17476[=]U<=>NULL[=]A<=>f06b0[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>8120[=]P<=>Thunder.exe[=]I<=>17888[=]W<=>30896[=]V<=>7.2.7.3496
+T<=>8158[=]P<=>XBrowser.exe[=]I<=>16496[=]W<=>109aa[=]V<=>1, 0, 0, 6[=]N<=>迅雷7[=]C<=>深圳市迅雷网络技术有限公司
+T<=>8169[=]P<=>Thunder.exe[=]I<=>17888[=]W<=>30896[=]V<=>7.2.7.3496
+T<=>8172[=]P<=>iexplore.exe[=]I<=>17476[=]U<=>http://news.xunlei.com/index.html[=]A<=>f06b0[=]B<=>1d0624[=]V<=>9.00.8112.16421
+T<=>8174[=]P<=>iexplore.exe[=]I<=>17476[=]U<=>http://news.xunlei.com/index.html[=]A<=>f06b0[=]B<=>10a7c[=]V<=>9.00.8112.16421
+T<=>8177[=]P<=>Thunder.exe[=]I<=>17888[=]W<=>30896[=]V<=>7.2.7.3496
+T<=>8179[=]P<=>XBrowser.exe[=]I<=>16496[=]W<=>109aa[=]V<=>1, 0, 0, 6
+T<=>8217[=]P<=>Thunder.exe[=]I<=>17888[=]W<=>30896[=]V<=>7.2.7.3496
+T<=>8222[=]P<=>iexplore.exe[=]I<=>17476[=]U<=>http://news.ifeng.com/mainland/detail_2012_05/12/14476117_0.shtml[=]A<=>f06b0[=]B<=>10a7c[=]V<=>9.00.8112.16421
+T<=>8287[=]P<=>iexplore.exe[=]I<=>17476[=]U<=>http://news.xunlei.com/index.html[=]A<=>f06b0[=]B<=>1d0624[=]V<=>9.00.8112.16421
+T<=>8293[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8295[=]P<=>WinRAR.exe[=]I<=>17104[=]W<=>70406[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>8299[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8302[=]P<=>notepad.exe[=]I<=>17112[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>8312[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8322[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>3420[=]W<=>903bc[=]V<=>2.0.2.4[=]N<=>MrHackTV Trainer[=]C<=>MrHackTV
+T<=>8324[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8326[=]P<=>开始游戏.exe[=]I<=>6128[=]W<=>409e8[=]V<=>1.2[=]N<=>启动程序[=]C<=>游民星空
+T<=>8334[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8337[=]P<=>SniperEliteV2.exe[=]I<=>12292[=]W<=>30a8e[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>8509[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8512[=]P<=>taskmgr.exe[=]I<=>17892[=]W<=>509c6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>8518[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8523[=]P<=>开始游戏.exe[=]I<=>15232[=]W<=>1e066a[=]V<=>1.2
+T<=>8525[=]P<=>SniperEliteV2.exe[=]I<=>11540[=]W<=>50ad4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>8537[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>8544[=]P<=>Thunder.exe[=]I<=>17888[=]W<=>20a3e[=]V<=>7.2.7.3496
+T<=>8546[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>8550[=]P<=>notepad.exe[=]I<=>17868[=]W<=>5083a[=]V<=>6.1.7600.16385
+T<=>8568[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8570[=]P<=>SniperEliteV2.exe[=]I<=>17296[=]W<=>b0406[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>8684[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8687[=]P<=>taskmgr.exe[=]I<=>16944[=]W<=>70884[=]V<=>6.1.7600.16385
+T<=>8691[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>8693[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8701[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://bbs1.gamersky.com/forum.php[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8722[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://bbs1.gamersky.com/forum.php[=]A<=>30568[=]B<=>80816[=]V<=>9.00.8112.16421
+T<=>8727[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://bbs1.gamersky.com/forum.php[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8729[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8747[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/Soft/201109/30158.shtml[=]A<=>30568[=]B<=>80816[=]V<=>9.00.8112.16421
+T<=>8767[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8786[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8789[=]P<=>SniperEliteV2.exe[=]I<=>18416[=]W<=>5091e[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>8911[=]P<=>taskmgr.exe[=]I<=>17752[=]W<=>701b6[=]V<=>6.1.7600.16385
+T<=>8916[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8918[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8922[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>3420[=]W<=>903bc[=]V<=>2.0.2.4
+T<=>8949[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>8951[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8953[=]P<=>SniperEliteV2.exe[=]I<=>17732[=]W<=>90944[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>8957[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>8964[=]P<=>SniperEliteV2.exe[=]I<=>12216[=]W<=>d0828[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>9055[=]P<=>taskmgr.exe[=]I<=>16800[=]W<=>22078c[=]V<=>6.1.7600.16385
+T<=>9057[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>9061[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>9063[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/handbook/201007/161921.shtml[=]A<=>30568[=]B<=>10041e[=]V<=>9.00.8112.16421
+T<=>9098[=]P<=>notepad.exe[=]I<=>18680[=]W<=>9086e[=]V<=>6.1.7600.16385
+T<=>9115[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>9119[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>about:Tabs[=]A<=>30568[=]B<=>20049a[=]V<=>9.00.8112.16421
+T<=>9123[=]P<=>notepad.exe[=]I<=>18680[=]W<=>9086e[=]V<=>6.1.7600.16385
+T<=>9127[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>about:Tabs[=]A<=>30568[=]B<=>20049a[=]V<=>9.00.8112.16421
+T<=>9129[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/Soft/200803/12526.shtml[=]A<=>30568[=]B<=>20049a[=]V<=>9.00.8112.16421
+T<=>9145[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/Soft/200803/12526.shtml[=]A<=>30568[=]B<=>1206aa[=]V<=>9.00.8112.16421
+T<=>9147[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://db.gamersky.com/Soft/ShowSoftDown.asp[=]A<=>30568[=]B<=>1206aa[=]V<=>9.00.8112.16421
+T<=>9151[=]P<=>Thunder.exe[=]I<=>19132[=]W<=>90950[=]V<=>7.2.7.3496
+T<=>9159[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/Soft/200803/12526.shtml[=]A<=>30568[=]B<=>20049a[=]V<=>9.00.8112.16421
+T<=>9161[=]P<=>notepad.exe[=]I<=>18680[=]W<=>9086e[=]V<=>6.1.7600.16385
+T<=>9167[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>9171[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/systools/[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9174[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/handbook/201007/161921.shtml[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9185[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9219[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9223[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>13041e[=]V<=>9.00.8112.16421
+T<=>9225[=]P<=>Thunder.exe[=]I<=>19132[=]W<=>c08dc[=]V<=>7.2.7.3496
+T<=>9230[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/183552014.html[=]A<=>30568[=]B<=>13041e[=]V<=>9.00.8112.16421
+T<=>9232[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>9234[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/183552014.html[=]A<=>30568[=]B<=>13041e[=]V<=>9.00.8112.16421
+T<=>9236[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9238[=]P<=>Thunder.exe[=]I<=>19132[=]W<=>6092a[=]V<=>7.2.7.3496
+T<=>9241[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://bbs.3dmgame.com/thread-3050696-1-1.html[=]A<=>30568[=]B<=>d0996[=]V<=>9.00.8112.16421
+T<=>9243[=]P<=>notepad.exe[=]I<=>18680[=]W<=>9086e[=]V<=>6.1.7600.16385
+T<=>9245[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>9250[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://bbs.3dmgame.com/thread-3050696-1-1.html[=]A<=>30568[=]B<=>d0996[=]V<=>9.00.8112.16421
+T<=>9275[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/183552014.html[=]A<=>30568[=]B<=>13041e[=]V<=>9.00.8112.16421
+T<=>9317[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9330[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>9348[=]P<=>dotnetfx.exe[=]I<=>19724[=]W<=>c0974[=]V<=>2.0.50727.42[=]N<=>Microsoft .NET Framework 2.0[=]C<=>Microsoft Corporation
+T<=>9350[=]P<=>install.exe[=]I<=>9752[=]W<=>9095e[=]V<=>8.0.50727.42[=]N<=>Microsoft? Visual Studio? 2005[=]C<=>Microsoft Corporation
+T<=>9356[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>9394[=]P<=>SniperEliteV2.exe[=]I<=>20272[=]W<=>e08d6[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>9405[=]P<=>explorer.exe[=]I<=>500[=]W<=>160062[=]V<=>6.1.7600.16385
+T<=>9407[=]P<=>SniperEliteV2.exe[=]I<=>20272[=]W<=>e08d6[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>9409[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>9413[=]P<=>SniperEliteV2.exe[=]I<=>16828[=]W<=>100862[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>9794[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>9799[=]P<=>SniperEliteV2.exe[=]I<=>17268[=]W<=>d07c0[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>9805[=]P<=>SniperEliteV2.exe[=]I<=>19848[=]W<=>140944[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>9939[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>9941[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9945[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9954[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>7506ca[=]V<=>9.00.8112.16421
+T<=>9956[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://bbs.gamersky.com/thread-1245292-1-1.html[=]A<=>30568[=]B<=>7506ca[=]V<=>9.00.8112.16421
+T<=>9993[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>9999[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>1308d6[=]V<=>9.00.8112.16421
+T<=>10001[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://bbs.3dmgame.com/thread-3063614-1-1.html[=]A<=>30568[=]B<=>1308d6[=]V<=>9.00.8112.16421
+T<=>10054[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>10061[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>908a0[=]V<=>9.00.8112.16421
+T<=>10063[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/88521310.html[=]A<=>30568[=]B<=>908a0[=]V<=>9.00.8112.16421
+T<=>10088[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>10092[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>10094[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/419721275.html[=]A<=>30568[=]B<=>1408bc[=]V<=>9.00.8112.16421
+T<=>10117[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>10119[=]P<=>nvcplui.exe[=]I<=>21200[=]W<=>1a0682[=]V<=>4.3.790.0[=]N<=>NVIDIA Control Panel[=]C<=>NVIDIA Corporation
+T<=>10123[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>10127[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/419721275.html[=]A<=>30568[=]B<=>1408bc[=]V<=>9.00.8112.16421
+T<=>10131[=]P<=>nvcplui.exe[=]I<=>21200[=]W<=>1a0682[=]V<=>4.3.790.0
+T<=>10155[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/419721275.html[=]A<=>30568[=]B<=>1408bc[=]V<=>9.00.8112.16421
+T<=>10159[=]P<=>nvcplui.exe[=]I<=>21200[=]W<=>1a0682[=]V<=>4.3.790.0
+T<=>10189[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/419721275.html[=]A<=>30568[=]B<=>1408bc[=]V<=>9.00.8112.16421
+T<=>10195[=]P<=>nvcplui.exe[=]I<=>21200[=]W<=>1a0682[=]V<=>4.3.790.0
+T<=>10255[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>10257[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://zhidao.baidu.com/question/419721275.html[=]A<=>30568[=]B<=>1408bc[=]V<=>9.00.8112.16421
+T<=>10259[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>10268[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>10270[=]P<=>SniperEliteV2.exe[=]I<=>20868[=]W<=>80942[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>10274[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>10276[=]P<=>SniperEliteV2.exe[=]I<=>21432[=]W<=>1b00d0[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>11472[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>11480[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>23352[=]W<=>230828[=]V<=>2.0.2.4
+T<=>11482[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>11484[=]P<=>开始游戏.exe[=]I<=>23408[=]W<=>c0858[=]V<=>1.2
+T<=>11488[=]P<=>SniperEliteV2.exe[=]I<=>23540[=]W<=>d0856[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>12122[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>12125[=]P<=>taskmgr.exe[=]I<=>16520[=]W<=>c0a34[=]V<=>6.1.7600.16385
+T<=>12127[=]P<=>SniperEliteV2.exe[=]I<=>23540[=]W<=>d0856[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>12144[=]P<=>taskmgr.exe[=]I<=>24096[=]W<=>2800e6[=]V<=>6.1.7600.16385
+T<=>12151[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>23352[=]W<=>230828[=]V<=>2.0.2.4
+T<=>12153[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>12155[=]P<=>Thunder.exe[=]I<=>19132[=]W<=>1f06d6[=]V<=>7.2.7.3496
+T<=>12161[=]P<=>explorer.exe[=]I<=>500[=]W<=>604f4[=]V<=>6.1.7600.16385
+T<=>12163[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12167[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12178[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12195[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12203[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12209[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12228[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>1a0a66[=]V<=>9.00.8112.16421
+T<=>12230[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://tieba.baidu.com/f[=]A<=>30568[=]B<=>1a0a66[=]V<=>9.00.8112.16421
+T<=>12609[=]P<=>Thunder.exe[=]I<=>19132[=]W<=>c07ae[=]V<=>7.2.7.3496
+T<=>12618[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://tieba.baidu.com/p/222831598[=]A<=>30568[=]B<=>1a0a66[=]V<=>9.00.8112.16421
+T<=>12684[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://tieba.baidu.com/p/222831598[=]A<=>30568[=]B<=>1a0a66[=]V<=>9.00.8112.16421
+T<=>12752[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://sk.qq.com/jumpstat[=]A<=>30568[=]B<=>90684[=]V<=>9.00.8112.16421
+T<=>12754[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://tieba.baidu.com/p/222831598[=]A<=>30568[=]B<=>1a0a66[=]V<=>9.00.8112.16421
+T<=>12761[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12763[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>12770[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12786[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12792[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://gd.qq.com/[=]A<=>30568[=]B<=>90684[=]V<=>9.00.8112.16421
+T<=>12795[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://gd.qq.com/a/20120512/000054.htm[=]A<=>30568[=]B<=>603c6[=]V<=>9.00.8112.16421
+T<=>12873[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.baidu.com/s[=]A<=>30568[=]B<=>a0a86[=]V<=>9.00.8112.16421
+T<=>12875[=]P<=>iexplore.exe[=]I<=>18088[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>30568[=]B<=>1806b8[=]V<=>9.00.8112.16421
+T<=>12879[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>12885[=]P<=>nvcplui.exe[=]I<=>23804[=]W<=>505e0[=]V<=>4.3.790.0
+T<=>13000[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>13018[=]P<=>bf3.exe[=]I<=>23020[=]W<=>150574[=]V<=>1, 0, 0, 0[=]N<=>Battlefield 3?[=]C<=>EA Digital Illusions CE AB
+T<=>13226[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>13252[=]P<=>WinRAR.exe[=]I<=>26424[=]W<=>100a64[=]V<=>NULL
+T<=>13257[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>13259[=]P<=>notepad.exe[=]I<=>15952[=]W<=>3800f2[=]V<=>6.1.7600.16385
+T<=>13271[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>13290[=]P<=>BF3+10Tr.exe[=]I<=>23696[=]W<=>f05e2[=]V<=>1.02.0001[=]N<=>Battlefield 3  - 31 Oct 2011 - D2D Only version 1.0 - Trainer by LinGon.[=]C<=>LinGon
+T<=>13293[=]P<=>bf3.exe[=]I<=>23020[=]W<=>150574[=]V<=>1, 0, 0, 0
+T<=>13471[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>13483[=]P<=>notepad.exe[=]I<=>2080[=]W<=>3a06d6[=]V<=>6.1.7600.16385
+T<=>13485[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>13488[=]P<=>bf3.exe[=]I<=>23020[=]W<=>150574[=]V<=>1, 0, 0, 0
+T<=>13822[=]P<=>explorer.exe[=]I<=>500[=]W<=>2e0062[=]V<=>6.1.7600.16385
+T<=>13826[=]P<=>bf3.exe[=]I<=>23020[=]W<=>170564[=]V<=>1, 0, 0, 0
+T<=>13828[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>13830[=]P<=>BF3+10Tr.exe[=]I<=>23696[=]W<=>f05e2[=]V<=>1.02.0001
+T<=>13835[=]P<=>explorer.exe[=]I<=>500[=]W<=>10102[=]V<=>6.1.7600.16385
+T<=>13841[=]P<=>notepad.exe[=]I<=>18352[=]W<=>30a10[=]V<=>6.1.7600.16385
+T<=>13857[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>13872[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>NULL[=]A<=>609f4[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>13894[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/z/bf3/[=]A<=>609f4[=]B<=>40a9a[=]V<=>9.00.8112.16421
+T<=>13897[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>13915[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/z/bf3/[=]A<=>609f4[=]B<=>40a9a[=]V<=>9.00.8112.16421
+T<=>13918[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/z/bf3/[=]A<=>609f4[=]B<=>1f07de[=]V<=>9.00.8112.16421
+T<=>13920[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://15.198game.net/[=]A<=>609f4[=]B<=>1f07de[=]V<=>9.00.8112.16421
+T<=>13926[=]P<=>Thunder.exe[=]I<=>19132[=]W<=>c08dc[=]V<=>7.2.7.3496
+T<=>13929[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/z/bf3/[=]A<=>609f4[=]B<=>40a9a[=]V<=>9.00.8112.16421
+T<=>13931[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/z/bf3/[=]A<=>609f4[=]B<=>90990[=]V<=>9.00.8112.16421
+T<=>13933[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/Soft/201111/31127.shtml[=]A<=>609f4[=]B<=>90990[=]V<=>9.00.8112.16421
+T<=>13957[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/Soft/201111/31127.shtml[=]A<=>609f4[=]B<=>5705ca[=]V<=>9.00.8112.16421
+T<=>13959[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://db.gamersky.com/Soft/ShowSoftDown.asp[=]A<=>609f4[=]B<=>5705ca[=]V<=>9.00.8112.16421
+T<=>13964[=]P<=>Thunder.exe[=]I<=>27560[=]W<=>1b0826[=]V<=>7.2.7.3496
+T<=>13969[=]P<=>iexplore.exe[=]I<=>23248[=]U<=>http://www.gamersky.com/z/bf3/[=]A<=>609f4[=]B<=>40a9a[=]V<=>9.00.8112.16421
+T<=>13971[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>13995[=]P<=>WinRAR.exe[=]I<=>19376[=]W<=>2307ca[=]V<=>NULL
+T<=>13997[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>14000[=]P<=>notepad.exe[=]I<=>19684[=]W<=>11093a[=]V<=>6.1.7600.16385
+T<=>14004[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>14012[=]P<=>bf3_v1.0_trn+5.exe[=]I<=>27696[=]W<=>e0902[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>14016[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>14021[=]P<=>bf3.exe[=]I<=>27256[=]W<=>4b06a2[=]V<=>1, 0, 0, 0
+T<=>14538[=]P<=>explorer.exe[=]I<=>500[=]W<=>300062[=]V<=>6.1.7600.16385
+T<=>14545[=]P<=>SndVol.exe[=]I<=>19828[=]W<=>a0a28[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>14549[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>14563[=]P<=>rundll32.exe[=]I<=>27900[=]W<=>e0568[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>14625[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>14627[=]P<=>bf3.exe[=]I<=>27256[=]W<=>4b06a2[=]V<=>1, 0, 0, 0
+T<=>14673[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>14685[=]P<=>rundll32.exe[=]I<=>27452[=]W<=>1a06d8[=]V<=>6.1.7600.16385
+T<=>14719[=]P<=>bf3.exe[=]I<=>27256[=]W<=>4b06a2[=]V<=>1, 0, 0, 0
+T<=>14727[=]P<=>explorer.exe[=]I<=>500[=]W<=>340062[=]V<=>6.1.7600.16385
+T<=>14734[=]P<=>rundll32.exe[=]I<=>27452[=]W<=>1a06d8[=]V<=>6.1.7600.16385
+T<=>14741[=]P<=>bf3.exe[=]I<=>27256[=]W<=>4b06a2[=]V<=>1, 0, 0, 0
+T<=>15321[=]P<=>taskmgr.exe[=]I<=>29260[=]W<=>25070a[=]V<=>6.1.7600.16385
+T<=>15325[=]P<=>bf3.exe[=]I<=>27256[=]W<=>4b06a2[=]V<=>1, 0, 0, 0
+T<=>15336[=]P<=>taskmgr.exe[=]I<=>29520[=]W<=>27079a[=]V<=>6.1.7600.16385
+T<=>15339[=]P<=>bf3.exe[=]I<=>27256[=]W<=>4b06a2[=]V<=>1, 0, 0, 0
+T<=>15345[=]P<=>taskmgr.exe[=]I<=>29520[=]W<=>27079a[=]V<=>6.1.7600.16385
+T<=>15348[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>15350[=]P<=>DriveTheLife.exe[=]I<=>2836[=]W<=>20016[=]V<=>4, 5, 17, 131[=]N<=>驱动人生[=]C<=>深圳市驱动人生软件技术有限公司
+T<=>15352[=]P<=>explorer.exe[=]I<=>500[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>15361[=]P<=>bf3_v1.0_trn+5.exe[=]I<=>27696[=]W<=>e0902[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>15363[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>15383[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>30228[=]W<=>2f0550[=]V<=>2.0.2.4
+T<=>15386[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>15390[=]P<=>开始游戏.exe[=]I<=>30272[=]W<=>100a0c[=]V<=>1.2
+T<=>15392[=]P<=>SniperEliteV2.exe[=]I<=>30472[=]W<=>180a6c[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>15428[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>15436[=]P<=>notepad.exe[=]I<=>28856[=]W<=>1508f0[=]V<=>6.1.7600.16385
+T<=>15447[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>15453[=]P<=>开始游戏.exe[=]I<=>29316[=]W<=>26060e[=]V<=>1.2
+T<=>15456[=]P<=>SniperEliteV2.exe[=]I<=>27292[=]W<=>34098a[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>16298[=]P<=>explorer.exe[=]I<=>500[=]W<=>40578[=]V<=>6.1.7600.16385
+T<=>16301[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>30228[=]W<=>2f0550[=]V<=>2.0.2.4
+T<=>16303[=]P<=>SniperEliteV2.exe[=]I<=>27292[=]W<=>34098a[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>16315[=]P<=>taskmgr.exe[=]I<=>29708[=]W<=>250ad4[=]V<=>6.1.7600.16385
+T<=>16319[=]P<=>explorer.exe[=]I<=>500[=]W<=>10102[=]V<=>6.1.7600.16385
+T<=>16323[=]P<=>QQ.exe[=]I<=>6356[=]W<=>1073e[=]V<=>1.71.5064.536
+T<=>16334[=]P<=>iexplore.exe[=]I<=>30016[=]U<=>NULL[=]A<=>e09f8[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>16336[=]P<=>iexplore.exe[=]I<=>30016[=]U<=>http://user.qzone.qq.com/94799878/infocenter[=]A<=>e09f8[=]B<=>310550[=]V<=>9.00.8112.16421
+T<=>16376[=]P<=>iexplore.exe[=]I<=>30016[=]U<=>http://user.qzone.qq.com/94799878/infocenter[=]A<=>e09f8[=]B<=>2906f0[=]V<=>9.00.8112.16421
+T<=>16378[=]P<=>iexplore.exe[=]I<=>30016[=]U<=>http://user.qzone.qq.com/94799878/infocenter[=]A<=>e09f8[=]B<=>310550[=]V<=>9.00.8112.16421
+T<=>16418[=]P<=>iexplore.exe[=]I<=>30016[=]U<=>http://cnc.qzs.qq.com/qzone/v6/newlimit/index.html[=]A<=>e09f8[=]B<=>2906f0[=]V<=>9.00.8112.16421
+T<=>16425[=]P<=>iexplore.exe[=]I<=>30016[=]U<=>http://user.qzone.qq.com/94799878/infocenter#home[=]A<=>e09f8[=]B<=>310550[=]V<=>9.00.8112.16421
+T<=>16464[=]P<=>360tray.exe[=]I<=>2732[=]W<=>10478[=]V<=>7, 7, 0, 1057
+T<=>16466[=]P<=>Thunder.exe[=]I<=>27560[=]W<=>2b00ca[=]V<=>7.2.7.3496
+T<=>16555[=]P<=>explorer.exe[=]I<=>500[=]W<=>10102[=]V<=>6.1.7600.16385
+T<=>592[=]P<=>SniperEliteV2.exe[=]I<=>6092[=]W<=>70730[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>609[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1005e[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>611[=]P<=>AliIM.exe[=]I<=>2932[=]W<=>20748[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>616[=]P<=>SniperEliteV2.exe[=]I<=>6092[=]W<=>70730[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>632[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>635[=]P<=>taskmgr.exe[=]I<=>5580[=]W<=>c00dc[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>639[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>641[=]P<=>nvcplui.exe[=]I<=>5144[=]W<=>4079c[=]V<=>4.3.790.0[=]N<=>NVIDIA Control Panel[=]C<=>NVIDIA Corporation
+T<=>690[=]P<=>rundll32.exe[=]I<=>5156[=]W<=>407e0[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>694[=]P<=>nvcplui.exe[=]I<=>5144[=]W<=>4079c[=]V<=>4.3.790.0
+T<=>698[=]P<=>rundll32.exe[=]I<=>4716[=]W<=>20800[=]V<=>6.1.7600.16385
+T<=>702[=]P<=>nvcplui.exe[=]I<=>5144[=]W<=>4079c[=]V<=>4.3.790.0
+T<=>721[=]P<=>rundll32.exe[=]I<=>5368[=]W<=>507be[=]V<=>6.1.7600.16385
+T<=>756[=]P<=>nvcplui.exe[=]I<=>5144[=]W<=>4079c[=]V<=>4.3.790.0
+T<=>762[=]P<=>rundll32.exe[=]I<=>4412[=]W<=>807d8[=]V<=>6.1.7600.16385
+T<=>814[=]P<=>nvcplui.exe[=]I<=>5144[=]W<=>4079c[=]V<=>4.3.790.0
+T<=>900[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>903[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>3436[=]W<=>10660[=]V<=>2.0.2.4[=]N<=>MrHackTV Trainer[=]C<=>MrHackTV
+T<=>905[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>911[=]P<=>notepad.exe[=]I<=>2676[=]W<=>60794[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>913[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>919[=]P<=>bf3_v1.0_trn+5.exe[=]I<=>5156[=]W<=>60656[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>921[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>932[=]P<=>bf3.exe[=]I<=>5036[=]W<=>30678[=]V<=>1, 0, 0, 0[=]N<=>Battlefield 3?[=]C<=>EA Digital Illusions CE AB
+T<=>1075[=]P<=>QQ.exe[=]I<=>5148[=]W<=>8071c[=]V<=>1.71.5064.536[=]N<=>QQ2011[=]C<=>Tencent
+T<=>1079[=]P<=>bf3.exe[=]I<=>5036[=]W<=>30678[=]V<=>1, 0, 0, 0
+T<=>1164[=]P<=>QQ.exe[=]I<=>4796[=]W<=>5071a[=]V<=>1.71.5064.536
+T<=>1171[=]P<=>bf3.exe[=]I<=>5036[=]W<=>30678[=]V<=>1, 0, 0, 0
+T<=>1614[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1600c8[=]V<=>6.1.7600.16385
+T<=>1617[=]P<=>bf3.exe[=]I<=>5036[=]W<=>30678[=]V<=>1, 0, 0, 0
+T<=>1621[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1800c8[=]V<=>6.1.7600.16385
+T<=>1624[=]P<=>bf3.exe[=]I<=>5036[=]W<=>30678[=]V<=>1, 0, 0, 0
+T<=>1628[=]P<=>taskmgr.exe[=]I<=>7396[=]W<=>3068a[=]V<=>6.1.7600.16385
+T<=>1630[=]P<=>bf3.exe[=]I<=>5036[=]W<=>30678[=]V<=>1, 0, 0, 0
+T<=>1635[=]P<=>taskmgr.exe[=]I<=>7396[=]W<=>3068a[=]V<=>6.1.7600.16385
+T<=>1638[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>1664[=]P<=>notepad.exe[=]I<=>7860[=]W<=>90650[=]V<=>6.1.7600.16385
+T<=>1669[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>1677[=]P<=>开始游戏.exe[=]I<=>8120[=]W<=>40772[=]V<=>1.2[=]N<=>启动程序[=]C<=>游民星空
+T<=>1679[=]P<=>SniperEliteV2.exe[=]I<=>5236[=]W<=>b0864[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>7415[=]P<=>explorer.exe[=]I<=>1844[=]W<=>303ea[=]V<=>6.1.7600.16385
+T<=>7417[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>8044[=]W<=>a06fe[=]V<=>2.0.2.4
+T<=>7419[=]P<=>explorer.exe[=]I<=>1844[=]W<=>100fa[=]V<=>6.1.7600.16385
+T<=>8246[=]P<=>QQ.exe[=]I<=>4796[=]W<=>1200b2[=]V<=>1.71.5064.536
+T<=>8248[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1005e[=]V<=>6.1.7600.16385
+T<=>8260[=]P<=>notepad.exe[=]I<=>17016[=]W<=>80762[=]V<=>6.1.7600.16385
+T<=>8262[=]P<=>explorer.exe[=]I<=>1844[=]W<=>d0724[=]V<=>6.1.7600.16385
+T<=>8269[=]P<=>SniperEliteV2.exe[=]I<=>17700[=]W<=>b06be[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>9158[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1005e[=]V<=>6.1.7600.16385
+T<=>9163[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>19488[=]W<=>30670[=]V<=>2.0.2.4
+T<=>9165[=]P<=>SniperEliteV2.exe[=]I<=>17700[=]W<=>b06be[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>12865[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>19488[=]W<=>30670[=]V<=>2.0.2.4
+T<=>12867[=]P<=>explorer.exe[=]I<=>1844[=]W<=>d0724[=]V<=>6.1.7600.16385
+T<=>12871[=]P<=>QQ.exe[=]I<=>4796[=]W<=>120648[=]V<=>1.71.5064.536
+T<=>12873[=]P<=>360tray.exe[=]I<=>2224[=]W<=>1046e[=]V<=>7, 7, 0, 1057[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>12875[=]P<=>explorer.exe[=]I<=>1844[=]W<=>100fa[=]V<=>6.1.7600.16385
+T<=>12879[=]P<=>iexplore.exe[=]I<=>25380[=]U<=>about:blank[=]A<=>506e0[=]B<=>706ae[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>12881[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1005e[=]V<=>6.1.7600.16385
+T<=>12883[=]P<=>iexplore.exe[=]I<=>25380[=]U<=>about:blank[=]A<=>506e0[=]B<=>706ae[=]V<=>9.00.8112.16421
+T<=>12887[=]P<=>iexplore.exe[=]I<=>25380[=]U<=>about:blank[=]A<=>506e0[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>12889[=]P<=>iexplore.exe[=]I<=>25380[=]U<=>http://www.500wan.com/[=]A<=>506e0[=]B<=>706ae[=]V<=>9.00.8112.16421
+T<=>12924[=]P<=>explorer.exe[=]I<=>1844[=]W<=>100fa[=]V<=>6.1.7600.16385
+T<=>12939[=]P<=>QQ.exe[=]I<=>5148[=]W<=>105b6[=]V<=>1.71.5064.536
+T<=>12941[=]P<=>iexplore.exe[=]I<=>25992[=]U<=>NULL[=]A<=>405e8[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>12943[=]P<=>iexplore.exe[=]I<=>25992[=]U<=>NULL[=]A<=>405e8[=]B<=>6065c[=]V<=>9.00.8112.16421
+T<=>12945[=]P<=>iexplore.exe[=]I<=>25992[=]U<=>http://mail.qq.com/cgi-bin/login[=]A<=>405e8[=]B<=>6065c[=]V<=>9.00.8112.16421
+T<=>12947[=]P<=>360tray.exe[=]I<=>2224[=]W<=>606b8[=]V<=>7, 7, 0, 1057
+T<=>12949[=]P<=>iexplore.exe[=]I<=>25992[=]U<=>http://m150.mail.qq.com/cgi-bin/frame_html[=]A<=>405e8[=]B<=>6065c[=]V<=>9.00.8112.16421
+T<=>12961[=]P<=>360tray.exe[=]I<=>2224[=]W<=>1046e[=]V<=>7, 7, 0, 1057
+T<=>12963[=]P<=>QQ.exe[=]I<=>5148[=]W<=>105b6[=]V<=>1.71.5064.536
+T<=>12974[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>NULL[=]A<=>706ea[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>12979[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/105924214[=]A<=>706ea[=]B<=>c0644[=]V<=>9.00.8112.16421
+T<=>12990[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/105924214[=]A<=>706ea[=]B<=>605e6[=]V<=>9.00.8112.16421
+T<=>12995[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/105924214[=]A<=>706ea[=]B<=>c0644[=]V<=>9.00.8112.16421
+T<=>13008[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/105924214[=]A<=>706ea[=]B<=>c0644[=]V<=>9.00.8112.16421
+T<=>13030[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/2694866242[=]A<=>706ea[=]B<=>605e6[=]V<=>9.00.8112.16421
+T<=>13035[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/2694866242#!app=2&pos=1336309641[=]A<=>706ea[=]B<=>605e6[=]V<=>9.00.8112.16421
+T<=>13042[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/2694866242#!app=2&pos=1336309641[=]A<=>706ea[=]B<=>14076c[=]V<=>9.00.8112.16421
+T<=>13046[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://www.uumm15.co.cc/i/[=]A<=>706ea[=]B<=>14076c[=]V<=>9.00.8112.16421
+T<=>13048[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/2694866242#!app=2&pos=1336309641[=]A<=>706ea[=]B<=>605e6[=]V<=>9.00.8112.16421
+T<=>13051[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/2694866242/main[=]A<=>706ea[=]B<=>605e6[=]V<=>9.00.8112.16421
+T<=>13059[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/2694866242/main#!app=4[=]A<=>706ea[=]B<=>605e6[=]V<=>9.00.8112.16421
+T<=>13066[=]P<=>iexplore.exe[=]I<=>26448[=]U<=>http://user.qzone.qq.com/105924214[=]A<=>706ea[=]B<=>c0644[=]V<=>9.00.8112.16421
+T<=>13068[=]P<=>360tray.exe[=]I<=>2224[=]W<=>1046e[=]V<=>7, 7, 0, 1057
+T<=>13070[=]P<=>QQ.exe[=]I<=>4796[=]W<=>10590[=]V<=>1.71.5064.536
+T<=>13105[=]P<=>iexplore.exe[=]I<=>26384[=]U<=>NULL[=]A<=>505f0[=]B<=>90672[=]V<=>9.00.8112.16421
+T<=>13109[=]P<=>iexplore.exe[=]I<=>26384[=]U<=>http://m150.mail.qq.com/cgi-bin/frame_html[=]A<=>505f0[=]B<=>90672[=]V<=>9.00.8112.16421
+T<=>13155[=]P<=>explorer.exe[=]I<=>1844[=]W<=>100fa[=]V<=>6.1.7600.16385
+T<=>13159[=]P<=>AliIM.exe[=]I<=>2932[=]W<=>201b8[=]V<=>1, 0, 0, 1
+T<=>13165[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1005e[=]V<=>6.1.7600.16385
+T<=>13171[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://i.taobao.com/home.htm[=]A<=>a05ea[=]B<=>a06b6[=]V<=>9.00.8112.16421
+T<=>13176[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://i.taobao.com/home.htm[=]A<=>a05ea[=]B<=>15068a[=]V<=>9.00.8112.16421
+T<=>13178[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://i.taobao.com/home.htm[=]A<=>a05ea[=]B<=>a06b6[=]V<=>9.00.8112.16421
+T<=>13208[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>a05ea[=]B<=>15068a[=]V<=>9.00.8112.16421
+T<=>13259[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>a05ea[=]B<=>7061a[=]V<=>9.00.8112.16421
+T<=>13261[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://i.taobao.com/home.htm[=]A<=>a05ea[=]B<=>a06b6[=]V<=>9.00.8112.16421
+T<=>13291[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>a05ea[=]B<=>15068a[=]V<=>9.00.8112.16421
+T<=>13293[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://item.taobao.com/item.htm[=]A<=>a05ea[=]B<=>7061a[=]V<=>9.00.8112.16421
+T<=>13379[=]P<=>iexplore.exe[=]I<=>25556[=]U<=>http://taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>a05ea[=]B<=>15068a[=]V<=>9.00.8112.16421
+T<=>13425[=]P<=>explorer.exe[=]I<=>1844[=]W<=>1005e[=]V<=>6.1.7600.16385
+T<=>14666[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>about:blank[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14672[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14674[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>14676[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14678[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>about:blank[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14680[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14699[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>f0646[=]V<=>9.00.8112.16421
+T<=>14704[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://news.sohu.com/20120512/n343033760.shtml[=]A<=>f0644[=]B<=>f0646[=]V<=>9.00.8112.16421
+T<=>14752[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14758[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>190766[=]V<=>9.00.8112.16421
+T<=>14760[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://news.sohu.com/20120512/n343023829.shtml[=]A<=>f0644[=]B<=>190766[=]V<=>9.00.8112.16421
+T<=>14762[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14776[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>b081c[=]V<=>9.00.8112.16421
+T<=>14781[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://news.sohu.com/20120512/n343031532.shtml[=]A<=>f0644[=]B<=>b081c[=]V<=>9.00.8112.16421
+T<=>14802[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://news.sohu.com/20120512/n343031532_1.shtml[=]A<=>f0644[=]B<=>b081c[=]V<=>9.00.8112.16421
+T<=>14828[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://news.sohu.com/20120512/n343023829.shtml[=]A<=>f0644[=]B<=>190766[=]V<=>9.00.8112.16421
+T<=>14852[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14880[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>100792[=]V<=>9.00.8112.16421
+T<=>14884[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://business.sohu.com/20120512/n343025185.shtml[=]A<=>f0644[=]B<=>100792[=]V<=>9.00.8112.16421
+T<=>14889[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>14908[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://business.sohu.com/20120512/n343025185.shtml[=]A<=>f0644[=]B<=>100792[=]V<=>9.00.8112.16421
+T<=>15131[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://fund.sohu.com/20120512/n343011963.shtml[=]A<=>f0644[=]B<=>b0412[=]V<=>9.00.8112.16421
+T<=>15150[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>15165[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>d08aa[=]V<=>9.00.8112.16421
+T<=>15167[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://blog.sohu.com/shehui/[=]A<=>f0644[=]B<=>d08aa[=]V<=>9.00.8112.16421
+T<=>15176[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://blog.sohu.com/shehui/[=]A<=>f0644[=]B<=>1b0766[=]V<=>9.00.8112.16421
+T<=>15179[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://ealice0523.i.sohu.com/blog/view/215461872.htm[=]A<=>f0644[=]B<=>1b0766[=]V<=>9.00.8112.16421
+T<=>15251[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>15263[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>c07da[=]V<=>9.00.8112.16421
+T<=>15265[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://t.sohu.com/guide/index[=]A<=>f0644[=]B<=>c07da[=]V<=>9.00.8112.16421
+T<=>15268[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>15292[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://t.sohu.com/guide/index[=]A<=>f0644[=]B<=>c07da[=]V<=>9.00.8112.16421
+T<=>15529[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>15549[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>15551[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://sports.sohu.com/20120512/n342973458.shtml[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>15573[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>15578[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.ifeng.com/[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>15593[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.ifeng.com/[=]A<=>f0644[=]B<=>3606ec[=]V<=>9.00.8112.16421
+T<=>15595[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://news.ifeng.com/mainland/detail_2012_05/12/14483889_0.shtml[=]A<=>f0644[=]B<=>3606ec[=]V<=>9.00.8112.16421
+T<=>15756[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.ifeng.com/[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>15801[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>15811[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/[=]A<=>f0644[=]B<=>1706b8[=]V<=>9.00.8112.16421
+T<=>15813[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/thread-1186383-1-1.html[=]A<=>f0644[=]B<=>1706b8[=]V<=>9.00.8112.16421
+T<=>15819[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.sohu.com/[=]A<=>f0644[=]B<=>903e6[=]V<=>9.00.8112.16421
+T<=>15822[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>15834[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/[=]A<=>f0644[=]B<=>100734[=]V<=>9.00.8112.16421
+T<=>15836[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/thread-1186383-1-1.html[=]A<=>f0644[=]B<=>1706b8[=]V<=>9.00.8112.16421
+T<=>15875[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/thread-1186368-1-1.html[=]A<=>f0644[=]B<=>100734[=]V<=>9.00.8112.16421
+T<=>15888[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/thread-1186368-1-1.html[=]A<=>f0644[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>15892[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/thread-1186368-1-1.html[=]A<=>f0644[=]B<=>100734[=]V<=>9.00.8112.16421
+T<=>16094[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/[=]A<=>f0644[=]B<=>100734[=]V<=>9.00.8112.16421
+T<=>16100[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/[=]A<=>f0644[=]B<=>18075a[=]V<=>9.00.8112.16421
+T<=>16102[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://so.tudou.com/nisearch.do[=]A<=>f0644[=]B<=>18075a[=]V<=>9.00.8112.16421
+T<=>16106[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>16113[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://so.tudou.com/nisearch.do[=]A<=>f0644[=]B<=>18075a[=]V<=>9.00.8112.16421
+T<=>16125[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/programs/view/a5ZGP3-7ATw/[=]A<=>f0644[=]B<=>17078c[=]V<=>9.00.8112.16421
+T<=>16132[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/[=]A<=>f0644[=]B<=>100734[=]V<=>9.00.8112.16421
+T<=>16144[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/programs/view/a5ZGP3-7ATw/[=]A<=>f0644[=]B<=>17078c[=]V<=>9.00.8112.16421
+T<=>16203[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://so.tudou.com/nisearch.do[=]A<=>f0644[=]B<=>18075a[=]V<=>9.00.8112.16421
+T<=>16206[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/programs/view/CPqf4IfzzIc/[=]A<=>f0644[=]B<=>a0868[=]V<=>9.00.8112.16421
+T<=>16208[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/[=]A<=>f0644[=]B<=>1c06c4[=]V<=>9.00.8112.16421
+T<=>16222[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/[=]A<=>f0644[=]B<=>110412[=]V<=>9.00.8112.16421
+T<=>16224[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/programs/view/CPqf4IfzzIc/[=]A<=>f0644[=]B<=>a0868[=]V<=>9.00.8112.16421
+T<=>16226[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/thread-1186421-1-1.html[=]A<=>f0644[=]B<=>110412[=]V<=>9.00.8112.16421
+T<=>16263[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/programs/view/CPqf4IfzzIc/[=]A<=>f0644[=]B<=>a0868[=]V<=>9.00.8112.16421
+T<=>16265[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://bbs.ziling.com/thread-1186421-1-1.html[=]A<=>f0644[=]B<=>110412[=]V<=>9.00.8112.16421
+T<=>16320[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/programs/view/CPqf4IfzzIc/[=]A<=>f0644[=]B<=>a0868[=]V<=>9.00.8112.16421
+T<=>16344[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://so.tudou.com/nisearch.do[=]A<=>f0644[=]B<=>18075a[=]V<=>9.00.8112.16421
+T<=>16349[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.youku.com/[=]A<=>f0644[=]B<=>18075a[=]V<=>9.00.8112.16421
+T<=>16355[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.youku.com/[=]A<=>f0644[=]B<=>1c079c[=]V<=>9.00.8112.16421
+T<=>16357[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.soku.com/search_video/q_%E5%BD%93%E3%80%8A%E5%A5%BD%E6%B1%89%E6%AD%8C%E3%80%8B%E3%80%81%E3%80%8A%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A7%91%E5%A8%98%E3%80%8B%E3%80%81%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E6%92%9E%E4%B8%8A%E6%9C%BA%E6%A2%B0%E8%88%9E[=]A<=>f0644[=]B<=>1c079c[=]V<=>9.00.8112.16421
+T<=>16359[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/programs/view/CPqf4IfzzIc/[=]A<=>f0644[=]B<=>a0868[=]V<=>9.00.8112.16421
+T<=>16361[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.soku.com/search_video/q_%E5%BD%93%E3%80%8A%E5%A5%BD%E6%B1%89%E6%AD%8C%E3%80%8B%E3%80%81%E3%80%8A%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A7%91%E5%A8%98%E3%80%8B%E3%80%81%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E6%92%9E%E4%B8%8A%E6%9C%BA%E6%A2%B0%E8%88%9E[=]A<=>f0644[=]B<=>1c079c[=]V<=>9.00.8112.16421
+T<=>16366[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://v.youku.com/v_show/id_XMzYwNDI1MjY0.html[=]A<=>f0644[=]B<=>a0836[=]V<=>9.00.8112.16421
+T<=>16372[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://poll.youku.com/data/welcome.sdo[=]A<=>f0644[=]B<=>1b078c[=]V<=>9.00.8112.16421
+T<=>16374[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://v.youku.com/v_show/id_XMzYwNDI1MjY0.html[=]A<=>f0644[=]B<=>a0836[=]V<=>9.00.8112.16421
+T<=>16421[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://v.youku.com/v_show/id_XMzYxNzQxMzA4.html[=]A<=>f0644[=]B<=>1d0748[=]V<=>9.00.8112.16421
+T<=>16572[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.youku.com/[=]A<=>f0644[=]B<=>18075a[=]V<=>9.00.8112.16421
+T<=>16577[=]P<=>iexplore.exe[=]I<=>25204[=]U<=>http://www.tudou.com/[=]A<=>f0644[=]B<=>100734[=]V<=>9.00.8112.16421
+T<=>16579[=]P<=>360tray.exe[=]I<=>2224[=]W<=>1046e[=]V<=>7, 7, 0, 1057
+T<=>16822[=]P<=>explorer.exe[=]I<=>1844[=]W<=>30168[=]V<=>6.1.7600.16385
+T<=>16831[=]P<=>360tray.exe[=]I<=>2224[=]W<=>1046e[=]V<=>7, 7, 0, 1057
+T<=>16833[=]P<=>QQ.exe[=]I<=>4796[=]W<=>605dc[=]V<=>1.71.5064.536
+T<=>406[=]P<=>QQ.exe[=]I<=>1152[=]W<=>30548[=]V<=>1.71.5064.536[=]N<=>QQ2011[=]C<=>Tencent
+T<=>435[=]P<=>AliIM.exe[=]I<=>3480[=]W<=>206e8[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>445[=]P<=>iexplore.exe[=]I<=>2572[=]U<=>http://music.qq.com/musicbox/html/music_askfor_multi.html[=]A<=>10688[=]B<=>106b8[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>449[=]P<=>popup_QQ.exe[=]I<=>1152[=]W<=>206e2[=]V<=>1.71.5064.536
+T<=>451[=]P<=>AliIM.exe[=]I<=>3480[=]W<=>206e8[=]V<=>1, 0, 0, 1
+T<=>453[=]P<=>360tray.exe[=]I<=>2696[=]W<=>1047e[=]V<=>7, 7, 0, 1057[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>457[=]P<=>explorer.exe[=]I<=>472[=]W<=>10100[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>460[=]P<=>iexplore.exe[=]I<=>2592[=]U<=>about:blank[=]A<=>30650[=]B<=>20674[=]V<=>9.00.8112.16421
+T<=>464[=]P<=>popup_QQ.exe[=]I<=>1152[=]W<=>206e2[=]V<=>1.71.5064.536
+T<=>466[=]P<=>iexplore.exe[=]I<=>2592[=]U<=>http://www.gdfc.org.cn/index.html[=]A<=>30650[=]B<=>20674[=]V<=>9.00.8112.16421
+T<=>506[=]P<=>360tray.exe[=]I<=>2696[=]W<=>1047e[=]V<=>7, 7, 0, 1057
+T<=>510[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>520[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>4992[=]W<=>60634[=]V<=>2.0.2.4[=]N<=>MrHackTV Trainer[=]C<=>MrHackTV
+T<=>522[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>525[=]P<=>SniperEliteV2.exe[=]I<=>1992[=]W<=>60696[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>710[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>713[=]P<=>SniperEliteV2.exe[=]I<=>1992[=]W<=>60696[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>747[=]P<=>taskmgr.exe[=]I<=>4184[=]W<=>600f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>751[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>753[=]P<=>SniperEliteV2.exe[=]I<=>5720[=]W<=>207fe[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>1362[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>1366[=]P<=>taskmgr.exe[=]I<=>7432[=]W<=>60034[=]V<=>6.1.7600.16385
+T<=>1368[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>1377[=]P<=>MrHackTV Sniper V2 Trainer.exe[=]I<=>4992[=]W<=>60634[=]V<=>2.0.2.4
+T<=>1381[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>NULL[=]A<=>307aa[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>1385[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>307aa[=]B<=>307dc[=]V<=>9.00.8112.16421
+T<=>1436[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>307aa[=]B<=>10836[=]V<=>9.00.8112.16421
+T<=>1438[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>http://11.198game.net/[=]A<=>307aa[=]B<=>10836[=]V<=>9.00.8112.16421
+T<=>1445[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>307aa[=]B<=>307dc[=]V<=>9.00.8112.16421
+T<=>1448[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>307aa[=]B<=>3087c[=]V<=>9.00.8112.16421
+T<=>1450[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>http://www.gamersky.com/handbook/201205/199365.shtml[=]A<=>307aa[=]B<=>3087c[=]V<=>9.00.8112.16421
+T<=>1484[=]P<=>explorer.exe[=]I<=>472[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>1487[=]P<=>nvcplui.exe[=]I<=>7600[=]W<=>208b8[=]V<=>4.3.790.0[=]N<=>NVIDIA Control Panel[=]C<=>NVIDIA Corporation
+T<=>1540[=]P<=>explorer.exe[=]I<=>472[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>1542[=]P<=>iexplore.exe[=]I<=>7768[=]U<=>http://www.gamersky.com/z/sev2/[=]A<=>307aa[=]B<=>307dc[=]V<=>9.00.8112.16421
+T<=>1553[=]P<=>explorer.exe[=]I<=>472[=]W<=>10070[=]V<=>6.1.7600.16385
+T<=>1558[=]P<=>SniperEliteV2.exe[=]I<=>7812[=]W<=>e059e[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>1564[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>1570[=]P<=>SniperEliteV2.exe[=]I<=>7360[=]W<=>a06ac[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>1581[=]P<=>explorer.exe[=]I<=>472[=]W<=>30664[=]V<=>6.1.7600.16385
+T<=>1583[=]P<=>SniperEliteV2.exe[=]I<=>7360[=]W<=>a06ac[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
